@@ -52,6 +52,7 @@ data/silver/        cleaned data and quality flags
 data/gold/          optimiser-ready inputs and results
 data/hardware/      IQM job results (counts, circuit hashes, job IDs)
 data/extraction_eval/  frozen LLM extraction run, verifier output, scoring, adjudication
+qasm/               OpenQASM circuits submitted to IQM hardware
 docs/               verification log, decisions log, quantum and hardware results
 ```
 
@@ -69,7 +70,7 @@ Not included in this repository, so the related scripts need your own copies:
 
 - **Company report PDFs** (`data/raw_pdfs/`): download them from each company's investor relations pages.
 - **Price data**: `scripts/fetch_market_data.py` downloads it from Yahoo Finance.
-- **API keys**: copy `.env.example` to `.env` and set `OPENAI_API_KEY` (extraction) and `IQM_TOKEN`
+- **API keys**: create a `.env` file with `OPENAI_API_KEY=...` (extraction) and `IQM_TOKEN=...`
   (hardware runs). The tests and the app need neither.
 - `scripts/extraction_eval/build_adjudication_verdicts.py` reads a local adjudication pack that is not published.
 
