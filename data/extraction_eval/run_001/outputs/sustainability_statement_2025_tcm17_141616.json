@@ -1,0 +1,269 @@
+{
+  "file": "Sustainability Statement 2025_tcm17-141616.pdf",
+  "company": "KONE",
+  "report_fiscal_year": 2025,
+  "pdf_type": "sustainability report",
+  "finder_pages": [
+    24,
+    26,
+    31,
+    32
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "Base year 2018",
+      "mapped_year": null,
+      "value_as_printed": "119,600",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross Scope 1 GHG emissions (tCO2eq) \n119,600",
+      "note": "label says base year",
+      "null_reason": null,
+      "value_numeric": 119600,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "114,000",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross Scope 1 GHG emissions (tCO2eq) \n114,000",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 114000,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "113,800",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross Scope 1 GHG emissions (tCO2eq) \n113,8006",
+      "note": "Removed footnote marker 6; net Scope 1 emissions were 107,300 tCO2, gross emissions without certificates were 110,200 tCO2.",
+      "null_reason": null,
+      "value_numeric": 113800,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 3,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "2025",
+      "mapped_year": 2025,
+      "value_as_printed": "110,200",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross Scope 1 GHG emissions (tCO2eq) \n110,200",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 110200,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 4,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "Base year 2018",
+      "mapped_year": null,
+      "value_as_printed": "36,900",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2eq) \n36,900",
+      "note": "label says base year",
+      "null_reason": null,
+      "value_numeric": 36900,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 5,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "32,000",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2eq) \n32,000",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 32000,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 6,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "31,500",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2eq) \n31,500",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 31500,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 7,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "2025",
+      "mapped_year": 2025,
+      "value_as_printed": "29,800",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2eq) \n29,800",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 29800,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 8,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "Base year 2018",
+      "mapped_year": null,
+      "value_as_printed": "35,100",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2eq)8 \n35,100",
+      "note": "label says base year",
+      "null_reason": null,
+      "value_numeric": 35100,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 9,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "4,900",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2eq)8 \n4,900",
+      "note": "Scope 2 market-based emissions for 2023 and 2024 have been restated due to adoption of more accurate emission factors.",
+      "null_reason": null,
+      "value_numeric": 4900,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 10,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "4,400",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2eq)8 \n4,400",
+      "note": "Scope 2 market-based emissions for 2023 and 2024 have been restated due to adoption of more accurate emission factors.",
+      "null_reason": null,
+      "value_numeric": 4400,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 11,
+      "company": "KONE",
+      "report_file": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "2025",
+      "mapped_year": 2025,
+      "value_as_printed": "1,100",
+      "unit_as_printed": "tCO2eq",
+      "pdf_page": 31,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2eq)8 \n1,100",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 1100,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    }
+  ]
+}

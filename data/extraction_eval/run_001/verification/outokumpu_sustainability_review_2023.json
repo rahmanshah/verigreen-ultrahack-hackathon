@@ -1,0 +1,216 @@
+[
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 1013282,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,013,282"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1,013,282"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 1043226,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,043,226"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "1,043,226"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 1196362,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,196,362"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "1,196,362"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 1213634,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,213,634"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2016*",
+    "mapped_year": null,
+    "value_as_printed": "1,213,634"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 141599,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "141,599"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "141,599"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 368380,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "368,380"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "368,380"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 543567,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "543,567"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "543,567"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 1210872,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,210,872"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2016*",
+    "mapped_year": null,
+    "value_as_printed": "1,210,872"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "value": 457228,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "457,228"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "457,228"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "value": 459780,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "459,780"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "459,780"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "value": 581521,
+    "unit_as_printed": "Tonnes",
+    "pdf_page": 12,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "581,521"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "581,521"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 11,
+    "year_label_as_printed": "2016*",
+    "mapped_year": null,
+    "value_as_printed": null
+  }
+]

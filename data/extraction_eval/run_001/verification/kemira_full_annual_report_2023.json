@@ -1,0 +1,218 @@
+[
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 137,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "137"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "137"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 139,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "139"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "139"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 160,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "160"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "160"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 488,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "488"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "488"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 677,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "677"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "677"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 696,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "696"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "696"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 643,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "643"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "643"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 732,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "732"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "732"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 809,
+    "unit_as_printed": "KT CO2E",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "809"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "809"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 17.2,
+    "unit_as_printed": "Thousand metric tons CO2e",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "17.2"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "17.2"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 10.3,
+    "unit_as_printed": "Thousand metric tons CO2e",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "10.3"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "10.3"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 11.5,
+    "unit_as_printed": "Thousand metric tons CO2e",
+    "pdf_page": 63,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "11.5"
+    },
+    "record_index": 11,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "11.5"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "file": "nokia-annual-report-2023.pdf",
+  "company": "Nokia",
+  "report_fiscal_year": 2023,
+  "pdf_type": "annual report (full)",
+  "finder_pages": [
+    92,
+    96
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "Nokia",
+      "report_file": "nokia-annual-report-2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "111 100",
+      "unit_as_printed": "tons CO2e",
+      "pdf_page": 96,
+      "quote": "Our Scope 1 GHG emissions in 2023 increased by 7 % to 111 100 tons CO2e",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 111100,
+      "value_parse_rule": "thousands=' '",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "Nokia",
+      "report_file": "nokia-annual-report-2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": null,
+      "mapped_year": null,
+      "value_as_printed": null,
+      "unit_as_printed": null,
+      "pdf_page": null,
+      "quote": null,
+      "note": null,
+      "null_reason": "No location-based Scope 2 figure is stated on the supplied pages.",
+      "value_numeric": null,
+      "value_parse_rule": "none",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "Nokia",
+      "report_file": "nokia-annual-report-2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "84 800",
+      "unit_as_printed": "tons CO2e",
+      "pdf_page": 96,
+      "quote": "and our market-based(4) Scope 2 emissions reached 84 800 tons CO2e.",
+      "note": "Scope 2 is identified as market-based; footnote marker (4) appears after “market-based” and is not part of the value.",
+      "null_reason": null,
+      "value_numeric": 84800,
+      "value_parse_rule": "thousands=' '",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+ "description": "Random-sampling baseline and grid stability for the FY2024 exact optimum (scripts/report_qubo.py). 'Within x' = f - F_min <= x * (F_max - F_min).",
+ "sampling_baseline": {
+  "MAIN_CONFIG|main": {
+   "headline": "MAIN_CONFIG",
+   "input_config": "main",
+   "n_feasible": 5005,
+   "n_states": 32768,
+   "feasible_range": 13.751192082567513,
+   "near_optimal": {
+    "0.01": {
+     "count": 3,
+     "share_of_feasible": 0.0005994005994005994,
+     "share_of_all_states": 9.1552734375e-05
+    },
+    "0.05": {
+     "count": 14,
+     "share_of_feasible": 0.002797202797202797,
+     "share_of_all_states": 0.00042724609375
+    }
+   },
+   "p_optimum_random_feasible": 0.0001998001998001998,
+   "p_optimum_random_bitstring": 3.0517578125e-05
+  },
+  "TRUST_CONFIG|main": {
+   "headline": "TRUST_CONFIG",
+   "input_config": "main",
+   "n_feasible": 5005,
+   "n_states": 32768,
+   "feasible_range": 12.717453166802102,
+   "near_optimal": {
+    "0.01": {
+     "count": 2,
+     "share_of_feasible": 0.0003996003996003996,
+     "share_of_all_states": 6.103515625e-05
+    },
+    "0.05": {
+     "count": 8,
+     "share_of_feasible": 0.0015984015984015984,
+     "share_of_all_states": 0.000244140625
+    }
+   },
+   "p_optimum_random_feasible": 0.0001998001998001998,
+   "p_optimum_random_bitstring": 3.0517578125e-05
+  },
+  "TRUST_CONFIG|u_high": {
+   "headline": "TRUST_CONFIG",
+   "input_config": "u_high",
+   "n_feasible": 5005,
+   "n_states": 32768,
+   "feasible_range": 13.093899362017623,
+   "near_optimal": {
+    "0.01": {
+     "count": 1,
+     "share_of_feasible": 0.0001998001998001998,
+     "share_of_all_states": 3.0517578125e-05
+    },
+    "0.05": {
+     "count": 6,
+     "share_of_feasible": 0.0011988011988011988,
+     "share_of_all_states": 0.00018310546875
+    }
+   },
+   "p_optimum_random_feasible": 0.0001998001998001998,
+   "p_optimum_random_bitstring": 3.0517578125e-05
+  }
+ },
+ "stability": {
+  "reference": "main inputs, MAIN_CONFIG",
+  "reference_selection": [
+   "ELISA.HE",
+   "KNEBV.HE",
+   "NDA-FI.HE",
+   "ORNBV.HE",
+   "SAMPO.HE",
+   "WRT1V.HE"
+  ],
+  "main": {
+   "n_grid_points": 60,
+   "in_every_optimum": [
+    "ELISA.HE",
+    "ORNBV.HE"
+   ],
+   "in_no_optimum": [
+    "METSO.HE",
+    "NESTE.HE",
+    "STERV.HE"
+   ],
+   "swaps_vs_reference": {
+    "0": 1,
+    "1": 22,
+    "2": 24,
+    "3": 5,
+    "4": 8
+   }
+  },
+  "full_sample": {
+   "n_grid_points": 60,
+   "in_every_optimum": [
+    "ELISA.HE",
+    "ORNBV.HE"
+   ],
+   "in_no_optimum": [
+    "KEMIRA.HE",
+    "METSO.HE",
+    "NESTE.HE",
+    "STERV.HE"
+   ],
+   "swaps_vs_reference": {
+    "1": 26,
+    "2": 23,
+    "3": 5,
+    "4": 6
+   }
+  },
+  "rank_carbon": {
+   "n_grid_points": 60,
+   "in_every_optimum": [
+    "ELISA.HE",
+    "ORNBV.HE"
+   ],
+   "in_no_optimum": [
+    "KNEBV.HE",
+    "NESTE.HE",
+    "STERV.HE"
+   ],
+   "swaps_vs_reference": {
+    "1": 17,
+    "2": 30,
+    "3": 5,
+    "4": 8
+   }
+  },
+  "u_high": {
+   "n_grid_points": 60,
+   "in_every_optimum": [
+    "ELISA.HE",
+    "ORNBV.HE"
+   ],
+   "in_no_optimum": [
+    "METSO.HE",
+    "NESTE.HE",
+    "STERV.HE"
+   ],
+   "swaps_vs_reference": {
+    "0": 3,
+    "1": 28,
+    "2": 22,
+    "3": 7
+   }
+  },
+  "all": {
+   "n_grid_points": 240,
+   "in_every_optimum": [
+    "ELISA.HE",
+    "ORNBV.HE"
+   ],
+   "in_no_optimum": [
+    "NESTE.HE",
+    "STERV.HE"
+   ],
+   "swaps_vs_reference": {
+    "0": 4,
+    "1": 93,
+    "2": 99,
+    "3": 22,
+    "4": 22
+   }
+  }
+ }
+}

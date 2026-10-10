@@ -1,0 +1,16 @@
+company_id,company_name,sector,exchange,currency
+NESTE.HE,Neste Oyj,Energy,Nasdaq Helsinki,EUR
+FORTUM.HE,Fortum Oyj,Utilities,Nasdaq Helsinki,EUR
+OUT1V.HE,Outokumpu Oyj,Materials,Nasdaq Helsinki,EUR
+ELISA.HE,Elisa Oyj,Communication Services,Nasdaq Helsinki,EUR
+KNEBV.HE,KONE Oyj,Industrials,Nasdaq Helsinki,EUR
+STERV.HE,Stora Enso Oyj,Materials,Nasdaq Helsinki,EUR
+UPM.HE,UPM-Kymmene Oyj,Materials,Nasdaq Helsinki,EUR
+KEMIRA.HE,Kemira Oyj,Materials,Nasdaq Helsinki,EUR
+WRT1V.HE,Wartsila Oyj,Industrials,Nasdaq Helsinki,EUR
+METSO.HE,Metso Oyj,Industrials,Nasdaq Helsinki,EUR
+KESKOB.HE,Kesko Oyj,Consumer Staples,Nasdaq Helsinki,EUR
+NOKIA.HE,Nokia Oyj,Information Technology,Nasdaq Helsinki,EUR
+ORNBV.HE,Orion Oyj,Health Care,Nasdaq Helsinki,EUR
+NDA-FI.HE,Nordea Bank Abp,Financials,Nasdaq Helsinki,EUR
+SAMPO.HE,Sampo Oyj,Financials,Nasdaq Helsinki,EUR

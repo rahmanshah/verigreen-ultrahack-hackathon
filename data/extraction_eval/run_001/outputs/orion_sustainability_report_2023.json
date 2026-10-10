@@ -1,0 +1,204 @@
+{
+  "file": "orion_sustainability_report_2023.pdf",
+  "company": "Orion",
+  "report_fiscal_year": 2023,
+  "pdf_type": "sustainability report",
+  "finder_pages": [
+    34,
+    87
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "4,403",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 1, direct emissions1,2\n4,403\n5,110\n5,511",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 4403,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "5,110",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 1, direct emissions1,2\n4,403\n5,110\n5,511",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 5110,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "5,511",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 1, direct emissions1,2\n4,403\n5,110\n5,511",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 5511,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 3,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "10,155",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 2, indirect emissions (market-based)1,2\n10,155\n11,544\n8,429",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control. 2021 and 2022 figures restated due to refinement of the calculation of the emission factor.",
+      "null_reason": null,
+      "value_numeric": 10155,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 4,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "11,544",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 2, indirect emissions (market-based)1,2\n10,155\n11,544\n8,429",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control. 2021 and 2022 figures restated due to refinement of the calculation of the emission factor.",
+      "null_reason": null,
+      "value_numeric": 11544,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 5,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "8,429",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 2, indirect emissions (market-based)1,2\n10,155\n11,544\n8,429",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 8429,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 6,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "20,038",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 2, indirect emissions (location-based)1,2\n20,038\n18,936\n11,726",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 20038,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 7,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "18,936",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 2, indirect emissions (location-based)1,2\n20,038\n18,936\n11,726",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 18936,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 8,
+      "company": "Orion",
+      "report_file": "orion_sustainability_report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "11,726",
+      "unit_as_printed": "tonnes",
+      "pdf_page": 87,
+      "quote": "Scope 2, indirect emissions (location-based)1,2\n20,038\n18,936\n11,726",
+      "note": "VMD production plants in France and Belgium are included to the figures as of July 2022. The consolidation approach for emissions is financial control.",
+      "null_reason": null,
+      "value_numeric": 11726,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "stopped": null,
+  "cumulative_eur": 0.043313375,
+  "pdfs": [
+    {
+      "pdf": "7spez01rONU0ftvjP9pujP-Neste_Annual_Report_2025_Sustainability_Data_Package.pdf",
+      "company": "Neste",
+      "report_year": 2025,
+      "pdf_type": "data package",
+      "status": "completed",
+      "finder_pages": [
+        5,
+        6
+      ],
+      "records": 9,
+      "nulls": 0,
+      "pass": 9,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001023,
+      "latency_s": 9.38
+    },
+    {
+      "pdf": "Fortum-Financials2025.pdf",
+      "company": "Fortum",
+      "report_year": 2025,
+      "pdf_type": "financial statements",
+      "status": "completed",
+      "finder_pages": [
+        56,
+        58,
+        62,
+        63
+      ],
+      "records": 15,
+      "nulls": 4,
+      "pass": 11,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 4,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001689,
+      "latency_s": 13.74
+    },
+    {
+      "pdf": "Outokumpu Sustainability review 2023.pdf",
+      "company": "Outokumpu",
+      "report_year": 2023,
+      "pdf_type": "sustainability report",
+      "status": "completed",
+      "finder_pages": [
+        3,
+        12,
+        17
+      ],
+      "records": 12,
+      "nulls": 1,
+      "pass": 11,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 1,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001174,
+      "latency_s": 9.97
+    },
+    {
+      "pdf": "Outokumpu_Sustainability_Statement_2025.pdf",
+      "company": "Outokumpu",
+      "report_year": 2025,
+      "pdf_type": "sustainability report",
+      "status": "completed",
+      "finder_pages": [
+        45,
+        47,
+        48,
+        49
+      ],
+      "records": 12,
+      "nulls": 0,
+      "pass": 10,
+      "ambiguous": 0,
+      "fail": 2,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {
+        "value_parse": 2
+      },
+      "cost_eur": 0.001333,
+      "latency_s": 7.73
+    },
+    {
+      "pdf": "STORAENSO_Annual_Report_2023.pdf",
+      "company": "Stora Enso",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        36,
+        67
+      ],
+      "records": 18,
+      "nulls": 0,
+      "pass": 18,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 2,
+      "failure_reasons": {},
+      "cost_eur": 0.001727,
+      "latency_s": 16.4
+    },
+    {
+      "pdf": "STORAENSO_Annual_Report_2025.pdf",
+      "company": "Stora Enso",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        97,
+        98,
+        99,
+        219
+      ],
+      "records": 34,
+      "nulls": 14,
+      "pass": 15,
+      "ambiguous": 0,
+      "fail": 5,
+      "not_stated": 14,
+      "flagged": 0,
+      "failure_reasons": {
+        "value_parse": 5
+      },
+      "cost_eur": 0.002886,
+      "latency_s": 27.55
+    },
+    {
+      "pdf": "upm-annual-report-2023.pdf",
+      "company": "UPM",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        46,
+        51,
+        72
+      ],
+      "records": 3,
+      "nulls": 2,
+      "pass": 1,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 2,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001195,
+      "latency_s": 7.54
+    },
+    {
+      "pdf": "upm-annual-report-2024.pdf",
+      "company": "UPM",
+      "report_year": 2024,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        43,
+        78,
+        80,
+        81
+      ],
+      "records": 18,
+      "nulls": 4,
+      "pass": 10,
+      "ambiguous": 0,
+      "fail": 4,
+      "not_stated": 4,
+      "flagged": 0,
+      "failure_reasons": {
+        "a_quote_on_page": 4,
+        "c_page_index": 4
+      },
+      "cost_eur": 0.002059,
+      "latency_s": 13.2
+    },
+    {
+      "pdf": "upm_annual_report_2025.pdf",
+      "company": "UPM",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        43,
+        82,
+        83,
+        84
+      ],
+      "records": 18,
+      "nulls": 3,
+      "pass": 15,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 3,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.00222,
+      "latency_s": 17.09
+    },
+    {
+      "pdf": "kemira-full-annual-report-2023.pdf",
+      "company": "Kemira",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        61,
+        62,
+        63,
+        146
+      ],
+      "records": 12,
+      "nulls": 0,
+      "pass": 12,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001389,
+      "latency_s": 10.8
+    },
+    {
+      "pdf": "kemira-full-annual-report-2025.pdf",
+      "company": "Kemira",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        96,
+        102,
+        103,
+        104
+      ],
+      "records": 31,
+      "nulls": 6,
+      "pass": 19,
+      "ambiguous": 0,
+      "fail": 6,
+      "not_stated": 6,
+      "flagged": 0,
+      "failure_reasons": {
+        "a_quote_on_page": 6,
+        "c_page_index": 6
+      },
+      "cost_eur": 0.002462,
+      "latency_s": 21.53
+    },
+    {
+      "pdf": "wärtsilä-annual-report-2023.pdf",
+      "company": "Wärtsilä",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        48,
+        68,
+        87
+      ],
+      "records": 15,
+      "nulls": 0,
+      "pass": 15,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001183,
+      "latency_s": 9.21
+    },
+    {
+      "pdf": "wärtsilä-annual-report-2025.pdf",
+      "company": "Wärtsilä",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        117,
+        121,
+        124,
+        125
+      ],
+      "records": 12,
+      "nulls": 2,
+      "pass": 10,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 2,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001345,
+      "latency_s": 10.26
+    },
+    {
+      "pdf": "metso-annual-report-2023.pdf",
+      "company": "Metso",
+      "report_year": 2023,
+      "pdf_type": "financial statements",
+      "status": "no_pages_found",
+      "finder_pages": [],
+      "records": 0,
+      "nulls": 0,
+      "pass": 0,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.0,
+      "latency_s": null
+    },
+    {
+      "pdf": "metso-annual-report-2023-1.pdf",
+      "company": "Metso",
+      "report_year": 2023,
+      "pdf_type": "GRI supplement",
+      "status": "completed",
+      "finder_pages": [
+        9,
+        10
+      ],
+      "records": 15,
+      "nulls": 0,
+      "pass": 6,
+      "ambiguous": 0,
+      "fail": 9,
+      "not_stated": 0,
+      "flagged": 6,
+      "failure_reasons": {
+        "a_quote_on_page": 9,
+        "c_page_index": 9
+      },
+      "cost_eur": 0.001105,
+      "latency_s": 9.57
+    },
+    {
+      "pdf": "metso-financial-review-2024.pdf",
+      "company": "Metso",
+      "report_year": 2024,
+      "pdf_type": "financial statements",
+      "status": "completed",
+      "finder_pages": [
+        35,
+        39,
+        40
+      ],
+      "records": 9,
+      "nulls": 0,
+      "pass": 9,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 4,
+      "failure_reasons": {},
+      "cost_eur": 0.001003,
+      "latency_s": 6.39
+    },
+    {
+      "pdf": "metso-annual-report-2025.pdf",
+      "company": "Metso",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        90,
+        94,
+        95
+      ],
+      "records": 9,
+      "nulls": 0,
+      "pass": 9,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 4,
+      "failure_reasons": {},
+      "cost_eur": 0.00112,
+      "latency_s": 8.26
+    },
+    {
+      "pdf": "kesko-annual-report-2023.pdf",
+      "company": "Kesko",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        54,
+        56,
+        57
+      ],
+      "records": 48,
+      "nulls": 10,
+      "pass": 38,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 10,
+      "flagged": 10,
+      "failure_reasons": {},
+      "cost_eur": 0.002426,
+      "latency_s": 24.14
+    },
+    {
+      "pdf": "kesko-annual-report-2025.pdf",
+      "company": "Kesko",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        129,
+        130,
+        131,
+        133
+      ],
+      "records": 33,
+      "nulls": 0,
+      "pass": 21,
+      "ambiguous": 0,
+      "fail": 12,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {
+        "value_parse": 12
+      },
+      "cost_eur": 0.002315,
+      "latency_s": 21.9
+    },
+    {
+      "pdf": "Sustainability Statement 2025_tcm17-141616.pdf",
+      "company": "KONE",
+      "report_year": 2025,
+      "pdf_type": "sustainability report",
+      "status": "completed",
+      "finder_pages": [
+        24,
+        26,
+        31,
+        32
+      ],
+      "records": 12,
+      "nulls": 0,
+      "pass": 3,
+      "ambiguous": 0,
+      "fail": 9,
+      "not_stated": 0,
+      "flagged": 2,
+      "failure_reasons": {
+        "a_quote_on_page": 9,
+        "c_page_index": 9,
+        "b_number_matches": 1
+      },
+      "cost_eur": 0.001345,
+      "latency_s": 8.6
+    },
+    {
+      "pdf": "nokia-annual-report-2023.pdf",
+      "company": "Nokia",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        92,
+        96
+      ],
+      "records": 3,
+      "nulls": 1,
+      "pass": 2,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 1,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.00064,
+      "latency_s": 4.73
+    },
+    {
+      "pdf": "nokia-annual-report-2025.pdf",
+      "company": "Nokia",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "records": 18,
+      "nulls": 6,
+      "pass": 10,
+      "ambiguous": 0,
+      "fail": 2,
+      "not_stated": 6,
+      "flagged": 2,
+      "failure_reasons": {
+        "a_quote_on_page": 2,
+        "c_page_index": 2
+      },
+      "cost_eur": 0.001661,
+      "latency_s": 12.75
+    },
+    {
+      "pdf": "Elisa_Annual_Report_2023.pdf",
+      "company": "Elisa",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        150,
+        193,
+        196
+      ],
+      "records": 7,
+      "nulls": 1,
+      "pass": 6,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 1,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.000994,
+      "latency_s": 9.58
+    },
+    {
+      "pdf": "Elisa_AnnualReport_2025.pdf",
+      "company": "Elisa",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        63,
+        67,
+        68
+      ],
+      "records": 15,
+      "nulls": 0,
+      "pass": 15,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 10,
+      "failure_reasons": {},
+      "cost_eur": 0.001222,
+      "latency_s": 10.8
+    },
+    {
+      "pdf": "orion_sustainability_report_2023.pdf",
+      "company": "Orion",
+      "report_year": 2023,
+      "pdf_type": "sustainability report",
+      "status": "completed",
+      "finder_pages": [
+        34,
+        87
+      ],
+      "records": 9,
+      "nulls": 0,
+      "pass": 9,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001001,
+      "latency_s": 8.62
+    },
+    {
+      "pdf": "orion-financial-statement-documents-2025.pdf",
+      "company": "Orion",
+      "report_year": 2025,
+      "pdf_type": "financial statements",
+      "status": "completed",
+      "finder_pages": [
+        66,
+        68,
+        69
+      ],
+      "records": 15,
+      "nulls": 4,
+      "pass": 11,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 4,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001457,
+      "latency_s": 14.52
+    },
+    {
+      "pdf": "annual-report-nordea-bank-abp-2023.pdf",
+      "company": "Nordea",
+      "report_year": 2023,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        351
+      ],
+      "records": 9,
+      "nulls": 4,
+      "pass": 5,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 4,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.000837,
+      "latency_s": 9.99
+    },
+    {
+      "pdf": "nordea-annual-report-2025.pdf",
+      "company": "Nordea",
+      "report_year": 2025,
+      "pdf_type": "annual report (full)",
+      "status": "completed",
+      "finder_pages": [
+        129,
+        135,
+        138,
+        149
+      ],
+      "records": 9,
+      "nulls": 0,
+      "pass": 9,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 0,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001596,
+      "latency_s": 9.45
+    },
+    {
+      "pdf": "sampo2023_sustainability_report.pdf",
+      "company": "Sampo",
+      "report_year": 2023,
+      "pdf_type": "sustainability report",
+      "status": "completed",
+      "finder_pages": [
+        32,
+        34,
+        37,
+        38
+      ],
+      "records": 9,
+      "nulls": 6,
+      "pass": 3,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 6,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001007,
+      "latency_s": 8.17
+    },
+    {
+      "pdf": "sampo2025-board-report-financial-statements.pdf",
+      "company": "Sampo",
+      "report_year": 2025,
+      "pdf_type": "financial statements",
+      "status": "completed",
+      "finder_pages": [
+        81,
+        84,
+        86,
+        87
+      ],
+      "records": 22,
+      "nulls": 9,
+      "pass": 13,
+      "ambiguous": 0,
+      "fail": 0,
+      "not_stated": 9,
+      "flagged": 0,
+      "failure_reasons": {},
+      "cost_eur": 0.001894,
+      "latency_s": 19.21
+    }
+  ]
+}

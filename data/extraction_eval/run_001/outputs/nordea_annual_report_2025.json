@@ -1,0 +1,206 @@
+{
+  "file": "nordea-annual-report-2025.pdf",
+  "company": "Nordea",
+  "report_fiscal_year": 2025,
+  "pdf_type": "annual report (full)",
+  "finder_pages": [
+    129,
+    135,
+    138,
+    149
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "Base year1",
+      "mapped_year": null,
+      "value_as_printed": "2,796",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross scope 1 GHG emissions (tCO2e)2,3\n 2,796 \n 1,810 \n 1,032 \n-43",
+      "note": "Label says base year; the base year is 2019. The 2019 figure was restated from 1,636 to 2,796 tCO2e.",
+      "null_reason": null,
+      "value_numeric": 2796,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "1,810",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross scope 1 GHG emissions (tCO2e)2,3\n 2,796 \n 1,810 \n 1,032 \n-43",
+      "note": "The 2024 figure was restated from 1,025 to 1,810 tCO2e.",
+      "null_reason": null,
+      "value_numeric": 1810,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "1",
+      "year_label_as_printed": "2025",
+      "mapped_year": 2025,
+      "value_as_printed": "1,032",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross scope 1 GHG emissions (tCO2e)2,3\n 2,796 \n 1,810 \n 1,032 \n-43",
+      "note": "Biogenic emissions from diesel and petrol corresponded to 1 tCO2e in 2025.",
+      "null_reason": null,
+      "value_numeric": 1032,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 3,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "Base year1",
+      "mapped_year": null,
+      "value_as_printed": "23,304",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross location-based scope 2 GHG emissions (tCO2e)​\n 23,304 \n 16,779 \n 13,688 \n-18",
+      "note": "Label says base year; the base year is 2019. The 2019 figure was restated from 11,636 to 23,304 tCO2e.",
+      "null_reason": null,
+      "value_numeric": 23304,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 4,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "16,779",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross location-based scope 2 GHG emissions (tCO2e)​\n 23,304 \n 16,779 \n 13,688 \n-18",
+      "note": "The 2024 figure was restated from 6,299 to 16,779 tCO2e.",
+      "null_reason": null,
+      "value_numeric": 16779,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 5,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_location",
+      "year_label_as_printed": "2025",
+      "mapped_year": 2025,
+      "value_as_printed": "13,688",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross location-based scope 2 GHG emissions (tCO2e)​\n 23,304 \n 16,779 \n 13,688 \n-18",
+      "note": "Biogenic emissions from purchased electricity, heating and cooling corresponded to 5,134 tCO2e in 2025.",
+      "null_reason": null,
+      "value_numeric": 13688,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 6,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "Base year1",
+      "mapped_year": null,
+      "value_as_printed": "18,902",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross market-based scope 2 GHG emissions (tCO2e)​\n 18,902 \n 16,540 \n 12,829 \n-22",
+      "note": "Label says base year; the base year is 2019. The 2019 figure was restated from 5,567 to 18,902 tCO2e.",
+      "null_reason": null,
+      "value_numeric": 18902,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 7,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "16,540",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross market-based scope 2 GHG emissions (tCO2e)​\n 18,902 \n 16,540 \n 12,829 \n-22",
+      "note": "The 2024 figure was restated from 3,037 to 16,540 tCO2e.",
+      "null_reason": null,
+      "value_numeric": 16540,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 8,
+      "company": "Nordea",
+      "report_file": "nordea-annual-report-2025.pdf",
+      "report_fiscal_year": 2025,
+      "scope": "2_market",
+      "year_label_as_printed": "2025",
+      "mapped_year": 2025,
+      "value_as_printed": "12,829",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 138,
+      "quote": "Gross market-based scope 2 GHG emissions (tCO2e)​\n 18,902 \n 16,540 \n 12,829 \n-22",
+      "note": "Biogenic emissions from purchased electricity, heating and cooling corresponded to 5,134 tCO2e in 2025.",
+      "null_reason": null,
+      "value_numeric": 12829,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    }
+  ]
+}

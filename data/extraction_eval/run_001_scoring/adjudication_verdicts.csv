@@ -1,0 +1,348 @@
+﻿pair_id,company,year,scope,category,labels,spike_not_blind,report_file,report_fy,value_as_printed,unit_as_printed,extracted_tonnes,verified_tonnes,verified_unit,verified_source_url,verified_source_page,verified_notes,pdf_page,quote,human_verdict,human_notes
+P01,Kemira Oyj,2023,1,verified_mismatch,,False,kemira-full-annual-report-2023.pdf,2023,137,KT CO2E,137000,118556,tCO2e,Kemira Annual Report 2025 (kemira.com investors),102,"Restated in AR2025. Market-based Scope 2 has THREE versions: 488 kt (AR2023), 469,839 (AR2024), 548,020 (AR2025). AR2023 Scope 1 was 137 kt, location-based 643 kt; Scope 1 change not explained",63,"Direct (Scope 1) GHG emissions2a
+305-1
+137
+139
+160",vintage_or_restatement,checked p63: 137 under 2023; extra row 2 (17.2) is the transport-fleet table
+P01,Kemira Oyj,2023,1,verified_mismatch,,False,kemira-full-annual-report-2023.pdf,2023,17.2,Thousand metric tons CO2e,17200,118556,tCO2e,Kemira Annual Report 2025 (kemira.com investors),102,"Restated in AR2025. Market-based Scope 2 has THREE versions: 488 kt (AR2023), 469,839 (AR2024), 548,020 (AR2025). AR2023 Scope 1 was 137 kt, location-based 643 kt; Scope 1 change not explained",63,"GHG EMISSIONS FROM NORTH AMERICAN TRANSPORTATION FLEET
+2023
+2022
+2021
+Thousand metric tons CO2e
+17.2
+10.3
+11.5",vintage_or_restatement,checked p63: 137 under 2023; extra row 2 (17.2) is the transport-fleet table
+P02,Kemira Oyj,2023,2_location,verified_mismatch,,False,kemira-full-annual-report-2023.pdf,2023,643,KT CO2E,643000,622902,tCO2e,Kemira Annual Report 2025 (kemira.com investors),102,"Restated in AR2025. Market-based Scope 2 has THREE versions: 488 kt (AR2023), 469,839 (AR2024), 548,020 (AR2025). AR2023 Scope 1 was 137 kt, location-based 643 kt; Scope 1 change not explained",63,"Energy indirect (Scope 2) emissions: location-based
+643
+732*
+809*",vintage_or_restatement,checked p63: 643 under 2023
+P03,Kemira Oyj,2023,2_market,verified_mismatch,,False,kemira-full-annual-report-2023.pdf,2023,488,KT CO2E,488000,548020,tCO2e,Kemira Annual Report 2025 (kemira.com investors),102,"Restated in AR2025. Market-based Scope 2 has THREE versions: 488 kt (AR2023), 469,839 (AR2024), 548,020 (AR2025). AR2023 Scope 1 was 137 kt, location-based 643 kt; Scope 1 change not explained",63,"Energy indirect (Scope 2) emissions: market-based3
+305-2
+488
+677
+696",vintage_or_restatement,checked p63: 488 under 2023
+P19,Kesko Oyj,2023,1,ambiguous_extracted,,False,kesko-annual-report-2023.pdf,2023,"47,385",tonnes CO2e,47385,47385,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Direct greenhouse gas emissions total (Scope 1)
+47,385
+47,681
+38,413",extraction_correct,checked p57: row 1 is the total; extra rows 2-6 are components that sum to it
+P19,Kesko Oyj,2023,1,ambiguous_extracted,,False,kesko-annual-report-2023.pdf,2023,"40,475",tonnes CO2e,40475,47385,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Transportation and logistics
+40,475
+41,721
+34,850",extraction_correct,checked p57: row 1 is the total; extra rows 2-6 are components that sum to it
+P19,Kesko Oyj,2023,1,ambiguous_extracted,,False,kesko-annual-report-2023.pdf,2023,"1,818",tonnes CO2e,1818,47385,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Self-produced heat
+1,818
+1,483
+2,419",extraction_correct,checked p57: row 1 is the total; extra rows 2-6 are components that sum to it
+P19,Kesko Oyj,2023,1,ambiguous_extracted,,False,kesko-annual-report-2023.pdf,2023,"3,020",tonnes CO2e,3020,47385,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Refrigerant leakages
+3,020
+2,371
+-",extraction_correct,checked p57: row 1 is the total; extra rows 2-6 are components that sum to it
+P19,Kesko Oyj,2023,1,ambiguous_extracted,,False,kesko-annual-report-2023.pdf,2023,"1,006",tonnes CO2e,1006,47385,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Transportation and logistics
+1,006
+1,216
+292",extraction_correct,checked p57: row 1 is the total; extra rows 2-6 are components that sum to it
+P19,Kesko Oyj,2023,1,ambiguous_extracted,,False,kesko-annual-report-2023.pdf,2023,"1,066",tonnes CO2e,1066,47385,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Self-produced electricity and heat1
+1,066
+891
+852",extraction_correct,checked p57: row 1 is the total; extra rows 2-6 are components that sum to it
+P04,Kesko Oyj,2023,2_market,verified_mismatch,,False,kesko-annual-report-2023.pdf,2023,0,tonnes CO2e,0,30562,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Purchased electricity (market-based)
+0
+0
+0",boundary_or_method,"checked p57: verified 30,562 is a mixed-method total (27,756 + 2,328 + 478 location-based); total row has no method label"
+P04,Kesko Oyj,2023,2_market,verified_mismatch,,False,kesko-annual-report-2023.pdf,2023,"27,756",tonnes CO2e,27756,30562,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"District heat (market-based)
+27,756
+24,372
+-",boundary_or_method,"checked p57: verified 30,562 is a mixed-method total (27,756 + 2,328 + 478 location-based); total row has no method label"
+P04,Kesko Oyj,2023,2_market,verified_mismatch,,False,kesko-annual-report-2023.pdf,2023,"2,328",tonnes CO2e,2328,30562,tCO2e,Kesko Annual Report 2023,57,"AR2023 table. Scope 2 total is 'primarily market-based' but includes location-based district heat for other countries (mixed method). Location-based left blank: 2023 electricity used RESIDUAL MIX factor, not grid average (footnote 3), so not a true location-based figure. Pre-restatement methodology; detail in Kesko GHG Inventory Report 2023",57,"Purchased electricity (market-based)
+2,328
+2,948
+-",boundary_or_method,"checked p57: verified 30,562 is a mixed-method total (27,756 + 2,328 + 478 location-based); total row has no method label"
+P20,Kesko Oyj,2024,1,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"59,750",tCO2eq,59750,59750,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"Restated (reported 56,637 / 42,950 / 27,939). FLAG Scope 1 2,696 t separate",130,"Direct scope 1 GHG emissions
+55,237
+59,750",extraction_correct+year_column_wrong,checked p130 and p131: row 1 (p130) is the 2024 column; row 2 (p131) took the 2025 value as 2024
+P20,Kesko Oyj,2024,1,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"55,237",tCO2eq,55237,59750,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"Restated (reported 56,637 / 42,950 / 27,939). FLAG Scope 1 2,696 t separate",131,"Gross scope 1 GHG emissions
+59,750
+55,237
+59,750
+ -8
+-
+-
+-
+-",extraction_correct+year_column_wrong,checked p130 and p131: row 1 (p130) is the 2024 column; row 2 (p131) took the 2025 value as 2024
+P21,Kesko Oyj,2024,2_location,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"43,167",tCO2eq,43167,43167,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"Restated (reported 56,637 / 42,950 / 27,939). FLAG Scope 1 2,696 t separate",130,"Location-based
+34,721
+43,167",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P21,Kesko Oyj,2024,2_location,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"34,721",tCO2eq,34721,43167,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"Restated (reported 56,637 / 42,950 / 27,939). FLAG Scope 1 2,696 t separate",131,"Gross location-based scope 2 GHG emissions
+43,167
+34,721
+43,167
+ -20
+-
+-
+-
+-",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P22,Kesko Oyj,2024,2_market,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"31,385",tCO2eq,31385,31385,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"Restated (reported 56,637 / 42,950 / 27,939). FLAG Scope 1 2,696 t separate",130,"Market-based
+18,967
+31,385",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P22,Kesko Oyj,2024,2_market,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"18,967",tCO2eq,18967,31385,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"Restated (reported 56,637 / 42,950 / 27,939). FLAG Scope 1 2,696 t separate",131,"Gross market-based scope 2 GHG emissions
+31,385
+18,967
+31,385
+ -40
+-
+-
+-
+-",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P23,Kesko Oyj,2025,1,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"55,237",tCO2eq,55237,55237,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"E1-6 table; base year = restated 2024. Financial control incl. joint control. FLAG Scope 1 (2,542 t) reported separately. K-retailer stores are franchises: their emissions are Scope 3 cat 14, not Kesko Scope 1+2",130,"Direct scope 1 GHG emissions
+55,237
+59,750",extraction_correct+year_column_wrong,checked p130 and p131: row 1 (p130) is the 2025 column; row 2 (p131) took the base-year/2024 value as 2025
+P23,Kesko Oyj,2025,1,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"59,750",tCO2eq,59750,55237,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"E1-6 table; base year = restated 2024. Financial control incl. joint control. FLAG Scope 1 (2,542 t) reported separately. K-retailer stores are franchises: their emissions are Scope 3 cat 14, not Kesko Scope 1+2",131,"Gross scope 1 GHG emissions
+59,750
+55,237
+59,750
+ -8
+-
+-
+-
+-",extraction_correct+year_column_wrong,checked p130 and p131: row 1 (p130) is the 2025 column; row 2 (p131) took the base-year/2024 value as 2025
+P24,Kesko Oyj,2025,2_location,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"34,721",tCO2eq,34721,34721,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"E1-6 table; base year = restated 2024. Financial control incl. joint control. FLAG Scope 1 (2,542 t) reported separately. K-retailer stores are franchises: their emissions are Scope 3 cat 14, not Kesko Scope 1+2",130,"Location-based
+34,721
+43,167",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P24,Kesko Oyj,2025,2_location,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"43,167",tCO2eq,43167,34721,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"E1-6 table; base year = restated 2024. Financial control incl. joint control. FLAG Scope 1 (2,542 t) reported separately. K-retailer stores are franchises: their emissions are Scope 3 cat 14, not Kesko Scope 1+2",131,"Gross location-based scope 2 GHG emissions
+43,167
+34,721
+43,167
+ -20
+-
+-
+-
+-",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P25,Kesko Oyj,2025,2_market,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"18,967",tCO2eq,18967,18967,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"E1-6 table; base year = restated 2024. Financial control incl. joint control. FLAG Scope 1 (2,542 t) reported separately. K-retailer stores are franchises: their emissions are Scope 3 cat 14, not Kesko Scope 1+2",130,"Market-based
+18,967
+31,385",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P25,Kesko Oyj,2025,2_market,ambiguous_extracted,,False,kesko-annual-report-2025.pdf,2025,"31,385",tCO2eq,31385,18967,tCO2e,Kesko Annual Report 2025 (kesko.fi investors),131,"E1-6 table; base year = restated 2024. Financial control incl. joint control. FLAG Scope 1 (2,542 t) reported separately. K-retailer stores are franchises: their emissions are Scope 3 cat 14, not Kesko Scope 1+2",131,"Gross market-based scope 2 GHG emissions
+31,385
+18,967
+31,385
+ -40
+-
+-
+-
+-",extraction_correct+year_column_wrong,checked p130 and p131: same pattern
+P12,Metso Oyj,2023,1,ambiguous_verified,,False,metso-annual-report-2023-1.pdf,2023,"28,653",tCO2,28653,28653; 36912,tCO2e,Metso GRI supplement 2023 (metso.com/annualreport) || Metso Financial review 2024 (metso.com investors; data/raw_pdfs/metso-financial-review-2024.pdf),9 || 39,"GRI 305-1/305-2 table. CO2 ONLY (not CO2e) and Scope 1 INCLUDES savings from renewable gas certificates (i.e. net, not gross). Not strictly comparable with 2024+ ESRS gross figures. S1+S2mkt = 32,181; Financial review says 32,182. Silver uses this GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); the AR2024 row below is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation || ESRS E1-6 table 'Gross Scopes 1, 2, 3 and Total GHG emissions'; column order 2024, 2023, 2019 (2023 = 'Retrospective' comparative). Printed page 39 (= PDF page 39 of 158). GROSS basis in CO2e, financial control; the 2024-comparable basis. Differs from the GRI-supplement 2023 row (28,653 / 76,349 / 3,528: CO2 only, Scope 1 net of renewable gas certificates): Scope 1 +29% vs that row. Silver uses the GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); this AR2024 row is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation. Adds a deliberate E05 flag (sources disagree by ~22%)",9,"Scope 1 emissions
+28,653
+39,267*",extraction_correct,"checked p9: 28,653 under 2023"
+P13,Metso Oyj,2023,1,ambiguous_verified,,False,metso-financial-review-2024.pdf,2024,"36,912",tCO2e,36912,28653; 36912,tCO2e,Metso GRI supplement 2023 (metso.com/annualreport) || Metso Financial review 2024 (metso.com investors; data/raw_pdfs/metso-financial-review-2024.pdf),9 || 39,"GRI 305-1/305-2 table. CO2 ONLY (not CO2e) and Scope 1 INCLUDES savings from renewable gas certificates (i.e. net, not gross). Not strictly comparable with 2024+ ESRS gross figures. S1+S2mkt = 32,181; Financial review says 32,182. Silver uses this GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); the AR2024 row below is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation || ESRS E1-6 table 'Gross Scopes 1, 2, 3 and Total GHG emissions'; column order 2024, 2023, 2019 (2023 = 'Retrospective' comparative). Printed page 39 (= PDF page 39 of 158). GROSS basis in CO2e, financial control; the 2024-comparable basis. Differs from the GRI-supplement 2023 row (28,653 / 76,349 / 3,528: CO2 only, Scope 1 net of renewable gas certificates): Scope 1 +29% vs that row. Silver uses the GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); this AR2024 row is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation. Adds a deliberate E05 flag (sources disagree by ~22%)",39,"Gross Scope 1 GHG emissions tCO2e
+37,670
+36,912
+37,870",extraction_correct,"checked p39: 36,912 under 2023"
+P14,Metso Oyj,2023,2_location,ambiguous_verified,,False,metso-annual-report-2023-1.pdf,2023,"76,349",tCO2,76349,76349; 76956,tCO2e,Metso GRI supplement 2023 (metso.com/annualreport) || Metso Financial review 2024 (metso.com investors; data/raw_pdfs/metso-financial-review-2024.pdf),9 || 39,"GRI 305-1/305-2 table. CO2 ONLY (not CO2e) and Scope 1 INCLUDES savings from renewable gas certificates (i.e. net, not gross). Not strictly comparable with 2024+ ESRS gross figures. S1+S2mkt = 32,181; Financial review says 32,182. Silver uses this GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); the AR2024 row below is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation || ESRS E1-6 table 'Gross Scopes 1, 2, 3 and Total GHG emissions'; column order 2024, 2023, 2019 (2023 = 'Retrospective' comparative). Printed page 39 (= PDF page 39 of 158). GROSS basis in CO2e, financial control; the 2024-comparable basis. Differs from the GRI-supplement 2023 row (28,653 / 76,349 / 3,528: CO2 only, Scope 1 net of renewable gas certificates): Scope 1 +29% vs that row. Silver uses the GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); this AR2024 row is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation. Adds a deliberate E05 flag (sources disagree by ~22%)",9,"Scope 2 emissions (location based)
+76,349
+90,715*",extraction_correct,"checked p9: 76,349 under 2023"
+P15,Metso Oyj,2023,2_location,ambiguous_verified,,False,metso-financial-review-2024.pdf,2024,"76,956",(tCO2e),76956,76349; 76956,tCO2e,Metso GRI supplement 2023 (metso.com/annualreport) || Metso Financial review 2024 (metso.com investors; data/raw_pdfs/metso-financial-review-2024.pdf),9 || 39,"GRI 305-1/305-2 table. CO2 ONLY (not CO2e) and Scope 1 INCLUDES savings from renewable gas certificates (i.e. net, not gross). Not strictly comparable with 2024+ ESRS gross figures. S1+S2mkt = 32,181; Financial review says 32,182. Silver uses this GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); the AR2024 row below is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation || ESRS E1-6 table 'Gross Scopes 1, 2, 3 and Total GHG emissions'; column order 2024, 2023, 2019 (2023 = 'Retrospective' comparative). Printed page 39 (= PDF page 39 of 158). GROSS basis in CO2e, financial control; the 2024-comparable basis. Differs from the GRI-supplement 2023 row (28,653 / 76,349 / 3,528: CO2 only, Scope 1 net of renewable gas certificates): Scope 1 +29% vs that row. Silver uses the GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); this AR2024 row is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation. Adds a deliberate E05 flag (sources disagree by ~22%)",39,"Gross location-based Scope 2 GHG emissions (tCO2e)
+75,652
+76,956
+78,483",extraction_correct,"checked p39: 76,956 under 2023"
+P16,Metso Oyj,2023,2_market,ambiguous_verified,,False,metso-annual-report-2023-1.pdf,2023,"3,528",tCO2,3528,3528; 3229,tCO2e,Metso GRI supplement 2023 (metso.com/annualreport) || Metso Financial review 2024 (metso.com investors; data/raw_pdfs/metso-financial-review-2024.pdf),9 || 39,"GRI 305-1/305-2 table. CO2 ONLY (not CO2e) and Scope 1 INCLUDES savings from renewable gas certificates (i.e. net, not gross). Not strictly comparable with 2024+ ESRS gross figures. S1+S2mkt = 32,181; Financial review says 32,182. Silver uses this GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); the AR2024 row below is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation || ESRS E1-6 table 'Gross Scopes 1, 2, 3 and Total GHG emissions'; column order 2024, 2023, 2019 (2023 = 'Retrospective' comparative). Printed page 39 (= PDF page 39 of 158). GROSS basis in CO2e, financial control; the 2024-comparable basis. Differs from the GRI-supplement 2023 row (28,653 / 76,349 / 3,528: CO2 only, Scope 1 net of renewable gas certificates): Scope 1 +29% vs that row. Silver uses the GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); this AR2024 row is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation. Adds a deliberate E05 flag (sources disagree by ~22%)",9,"Scope 2 emissions (market based)
+3,528
+5,328*",extraction_correct,"checked p9: 3,528 under 2023"
+P17,Metso Oyj,2023,2_market,ambiguous_verified,,False,metso-financial-review-2024.pdf,2024,"3,229",(tCO2e),3229,3528; 3229,tCO2e,Metso GRI supplement 2023 (metso.com/annualreport) || Metso Financial review 2024 (metso.com investors; data/raw_pdfs/metso-financial-review-2024.pdf),9 || 39,"GRI 305-1/305-2 table. CO2 ONLY (not CO2e) and Scope 1 INCLUDES savings from renewable gas certificates (i.e. net, not gross). Not strictly comparable with 2024+ ESRS gross figures. S1+S2mkt = 32,181; Financial review says 32,182. Silver uses this GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); the AR2024 row below is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation || ESRS E1-6 table 'Gross Scopes 1, 2, 3 and Total GHG emissions'; column order 2024, 2023, 2019 (2023 = 'Retrospective' comparative). Printed page 39 (= PDF page 39 of 158). GROSS basis in CO2e, financial control; the 2024-comparable basis. Differs from the GRI-supplement 2023 row (28,653 / 76,349 / 3,528: CO2 only, Scope 1 net of renewable gas certificates): Scope 1 +29% vs that row. Silver uses the GRI row for 2023 only because of source-type ranking (sustainability_report outranks annual_report); this AR2024 row is the more comparable (gross, ESRS) basis; do not use Metso 2023 for any trend or optimisation. Adds a deliberate E05 flag (sources disagree by ~22%)",39,"Gross market-based Scope 2 GHG emissions (tCO2e)
+3,308
+3,229
+83,338",extraction_correct,"checked p39: 3,229 under 2023"
+P05,Metso Oyj,2024,1,verified_mismatch,vintage_difference,False,metso-financial-review-2024.pdf,2024,"37,670",tCO2e,37670,33245,tCO2e,Metso Annual Report 2025 (metso.com investors),94,All values restated: Scope 1 corrected because one site used the WRONG ENERGY UNIT; Scope 3 +58 Mt from new use-of-sold-products method,39,"Gross Scope 1 GHG emissions tCO2e
+37,670
+36,912
+37,870",vintage_or_restatement,"checked p39: 37,670 is the 2024 value in the 2024 review"
+P06,Metso Oyj,2024,2_location,verified_mismatch,vintage_difference;year_mapping_suspect,False,metso-financial-review-2024.pdf,2024,"75,652",(tCO2e),75652,77789,tCO2e,Metso Annual Report 2025 (metso.com investors),94,All values restated: Scope 1 corrected because one site used the WRONG ENERGY UNIT; Scope 3 +58 Mt from new use-of-sold-products method,39,"Gross location-based Scope 2 GHG emissions (tCO2e)
+75,652
+76,956
+78,483",vintage_or_restatement,"checked p39: 75,652 is the 2024 value; suspect label is a coincidence"
+P07,Metso Oyj,2024,2_market,verified_mismatch,vintage_difference,False,metso-financial-review-2024.pdf,2024,"3,308",(tCO2e),3308,4412,tCO2e,Metso Annual Report 2025 (metso.com investors),94,All values restated: Scope 1 corrected because one site used the WRONG ENERGY UNIT; Scope 3 +58 Mt from new use-of-sold-products method,39,"Gross market-based Scope 2 GHG emissions (tCO2e)
+3,308
+3,229
+83,338",vintage_or_restatement,"checked p39: 3,308 is the 2024 value"
+P34,Orion Oyj,2025,1,ambiguous_extracted,,True,orion-financial-statement-documents-2025.pdf,2025,"5,018",tCO2e,5018,5018,tCO2e,Orion Financial Statement documents 2025 (orion.fi investors),68,E1-6 table. Base-year column contains the LABEL '2023' instead of values (parser trap). Decline attributed mainly to a mild winter. Refrigerants use AR6 GWP but Scope 3 inhaler HFCs use AR4. Not externally validated per report. 2023 report states consolidation = financial control,68,"Gross Scope 1 GHG emissions (tCO2e)
+2023
+5,625
+5,018
+ -11% 
+1,000
+0",,"not_adjudicated - spike, not blind"
+P34,Orion Oyj,2025,1,ambiguous_extracted,,True,orion-financial-statement-documents-2025.pdf,2025,"1,000",tCO2e,1000,5018,tCO2e,Orion Financial Statement documents 2025 (orion.fi investors),68,E1-6 table. Base-year column contains the LABEL '2023' instead of values (parser trap). Decline attributed mainly to a mild winter. Refrigerants use AR6 GWP but Scope 3 inhaler HFCs use AR4. Not externally validated per report. 2023 report states consolidation = financial control,68,"Gross Scope 1 GHG emissions (tCO2e)
+2023
+5,625
+5,018
+ -11% 
+1,000
+0",,"not_adjudicated - spike, not blind"
+P35,Orion Oyj,2025,2_location,ambiguous_extracted,,True,orion-financial-statement-documents-2025.pdf,2025,"6,776",tCO2e,6776,6776,tCO2e,Orion Financial Statement documents 2025 (orion.fi investors),68,E1-6 table. Base-year column contains the LABEL '2023' instead of values (parser trap). Decline attributed mainly to a mild winter. Refrigerants use AR6 GWP but Scope 3 inhaler HFCs use AR4. Not externally validated per report. 2023 report states consolidation = financial control,68,"Gross location-based Scope 2 GHG emissions (tCO2e)
+2023
+11,247
+6,776
+ -40% 
+0",,"not_adjudicated - spike, not blind"
+P35,Orion Oyj,2025,2_location,ambiguous_extracted,,True,orion-financial-statement-documents-2025.pdf,2025,0,tCO2e,0,6776,tCO2e,Orion Financial Statement documents 2025 (orion.fi investors),68,E1-6 table. Base-year column contains the LABEL '2023' instead of values (parser trap). Decline attributed mainly to a mild winter. Refrigerants use AR6 GWP but Scope 3 inhaler HFCs use AR4. Not externally validated per report. 2023 report states consolidation = financial control,68,"Gross location-based Scope 2 GHG emissions (tCO2e)
+2023
+11,247
+6,776
+ -40% 
+0",,"not_adjudicated - spike, not blind"
+P36,Orion Oyj,2025,2_market,ambiguous_extracted,,True,orion-financial-statement-documents-2025.pdf,2025,"4,557",tCO2e,4557,4557,tCO2e,Orion Financial Statement documents 2025 (orion.fi investors),68,E1-6 table. Base-year column contains the LABEL '2023' instead of values (parser trap). Decline attributed mainly to a mild winter. Refrigerants use AR6 GWP but Scope 3 inhaler HFCs use AR4. Not externally validated per report. 2023 report states consolidation = financial control,68,"Gross market-based Scope 2 GHG emissions (tCO2e)
+2023
+5,330
+4,557
+ -15% 
+0
+0",,"not_adjudicated - spike, not blind"
+P36,Orion Oyj,2025,2_market,ambiguous_extracted,,True,orion-financial-statement-documents-2025.pdf,2025,0,tCO2e,0,4557,tCO2e,Orion Financial Statement documents 2025 (orion.fi investors),68,E1-6 table. Base-year column contains the LABEL '2023' instead of values (parser trap). Decline attributed mainly to a mild winter. Refrigerants use AR6 GWP but Scope 3 inhaler HFCs use AR4. Not externally validated per report. 2023 report states consolidation = financial control,68,"Gross market-based Scope 2 GHG emissions (tCO2e)
+2023
+5,330
+4,557
+ -15% 
+0
+0",,"not_adjudicated - spike, not blind"
+P08,Sampo Oyj,2023,1,verified_mismatch,,False,sampo2023_sustainability_report.pdf,2023,5.0,tCO2e,5,1059.8,tCO2e,Sampo Sustainability Report 2023,127,"Appendix 2 group table, pre-integration methodology: NOT comparable with 2024+ (2022 Scope 1 here 1,297.9 vs 1,876 restated). Electricity market-based per emission-factor table; location-based not reported",38,"Scope 1: Direct GHG emissions
+5.0
+7.3
+8.2",boundary_or_method,"checked p38: table is Sampo plc (parent), verified is group figure"
+P26,Sampo Oyj,2024,1,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,"1,412",tCO2eq,1412,1412,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"RESTATED after If/Topdanmark integration: Scope 1 +530 t (from 882) mainly from a higher ASSUMED annual car mileage; location +710, market +88. Market-based exceeds location-based (residual mix effect)",86,"Gross Scope 1 GHG emissions (tCO2eq)
+1,876
+1,412
+1,569
+ 11.1 %
+-42%*",extraction_correct+boundary_or_method,checked p86-87: row 1 right; row 2 is the biogenic table
+P26,Sampo Oyj,2024,1,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,170,tCO2eq,170,1412,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"RESTATED after If/Topdanmark integration: Scope 1 +530 t (from 882) mainly from a higher ASSUMED annual car mileage; location +710, market +88. Market-based exceeds location-based (residual mix effect)",87,"Scope 1 (tCO2eq)
+158
+170",extraction_correct+boundary_or_method,checked p86-87: row 1 right; row 2 is the biogenic table
+P27,Sampo Oyj,2024,2_market,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,"3,657",tCO2eq,3657,3657,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"RESTATED after If/Topdanmark integration: Scope 1 +530 t (from 882) mainly from a higher ASSUMED annual car mileage; location +710, market +88. Market-based exceeds location-based (residual mix effect)",86,"Gross market-based Scope 2 GHG emissions (tCO2eq)
+4,903
+3,657
+1,424
+ -61.1 %
+-42%*",extraction_correct+boundary_or_method,checked p86-87: same
+P27,Sampo Oyj,2024,2_market,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,"2,768",tCO2eq,2768,3657,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"RESTATED after If/Topdanmark integration: Scope 1 +530 t (from 882) mainly from a higher ASSUMED annual car mileage; location +710, market +88. Market-based exceeds location-based (residual mix effect)",87,"Scope 2, market-based (tCO2eq)
+4,217
+2,768",extraction_correct+boundary_or_method,checked p86-87: same
+P28,Sampo Oyj,2025,1,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,"1,569",tCO2eq,1569,1569,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"E1-6 table, base year 2022. Own operations only; cat 15 financed emissions (388,417 t Scope 1+2 of investees, plus 6.0 Mt investee Scope 3 disclosed separately) excluded",86,"Gross Scope 1 GHG emissions (tCO2eq)
+1,876
+1,412
+1,569
+ 11.1 %
+-42%*",extraction_correct+boundary_or_method,checked p86-87: same
+P28,Sampo Oyj,2025,1,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,158,tCO2eq,158,1569,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"E1-6 table, base year 2022. Own operations only; cat 15 financed emissions (388,417 t Scope 1+2 of investees, plus 6.0 Mt investee Scope 3 disclosed separately) excluded",87,"Scope 1 (tCO2eq)
+158
+170",extraction_correct+boundary_or_method,checked p86-87: same
+P29,Sampo Oyj,2025,2_market,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,"1,424",tCO2eq,1424,1424,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"E1-6 table, base year 2022. Own operations only; cat 15 financed emissions (388,417 t Scope 1+2 of investees, plus 6.0 Mt investee Scope 3 disclosed separately) excluded",86,"Gross market-based Scope 2 GHG emissions (tCO2eq)
+4,903
+3,657
+1,424
+ -61.1 %
+-42%*",extraction_correct+boundary_or_method,checked p86-87: same
+P29,Sampo Oyj,2025,2_market,ambiguous_extracted,,False,sampo2025-board-report-financial-statements.pdf,2025,"4,217",tCO2eq,4217,1424,tCO2e,Sampo Board of Directors' Report and Financial Statements 2025 (sampo.com),86,"E1-6 table, base year 2022. Own operations only; cat 15 financed emissions (388,417 t Scope 1+2 of investees, plus 6.0 Mt investee Scope 3 disclosed separately) excluded",87,"Scope 2, market-based (tCO2eq)
+4,217
+2,768",extraction_correct+boundary_or_method,checked p86-87: same
+P09,Stora Enso Oyj,2023,2_market,verified_mismatch,year_mapping_suspect,False,STORAENSO_Annual_Report_2023.pdf,2023,0.05,"CO2-eq, million tonnes",50000,70000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97,GHG Protocol table in 2025 report (revised). Annual Report 2023 originally gave 1.47 / market 0.05 / location 0.51,67,"Scope 2: Emissions from purchased energy consumed in
+operations1, 2
+CO2-eq, million tonnes
+0.05
+0.08
+0.10",vintage_or_restatement,checked p67: 0.05 under 2023; verified 0.07 is the AR2025 revision; suspect label is a coincidence
+P09,Stora Enso Oyj,2023,2_market,verified_mismatch,year_mapping_suspect,False,STORAENSO_Annual_Report_2023.pdf,2023,0.05,Fossil CO2 equivalent (million tonnes),50000,70000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97,GHG Protocol table in 2025 report (revised). Annual Report 2023 originally gave 1.47 / market 0.05 / location 0.51,67,"Scope 23
+0.29
+0.19
+0.10
+0.08
+0.05",vintage_or_restatement,checked p67: 0.05 under 2023; verified 0.07 is the AR2025 revision; suspect label is a coincidence
+P30,Stora Enso Oyj,2024,1,ambiguous_extracted,,False,STORAENSO_Annual_Report_2025.pdf,2025,1.18,"Fossil CO2 equivalent, million tonnes",1180000,1180000; 1330000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97 || 99,"GHG Protocol table, revised. Biogenic Scope 1 = 11.86 Mt || ESRS E1-6 table, financial consolidation scope; comparative revised",97,"Scope 1
+2.27
+2.08
+2.13
+1.79
+1.46
+1.18
+0.99",extraction_correct,"checked p97 and p99: 1.18 is the 2024 column (GHG Protocol), 1.33 is the 2024 column (ESRS); both match our two verified values"
+P30,Stora Enso Oyj,2024,1,ambiguous_extracted,,False,STORAENSO_Annual_Report_2025.pdf,2025,1.33,"CO2-eq, million tonnes",1330000,1180000; 1330000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97 || 99,"GHG Protocol table, revised. Biogenic Scope 1 = 11.86 Mt || ESRS E1-6 table, financial consolidation scope; comparative revised",99,"Gross Scope 1 GHG
+emissions (CO2-eq,
+million tonnes)
+2.43
+1.33
+1.14
+ -15 %
+n/a
+n/a",extraction_correct,"checked p97 and p99: 1.18 is the 2024 column (GHG Protocol), 1.33 is the 2024 column (ESRS); both match our two verified values"
+P31,Stora Enso Oyj,2025,1,ambiguous_extracted,,False,STORAENSO_Annual_Report_2025.pdf,2025,0.99,"Fossil CO2 equivalent, million tonnes",990000,990000; 1140000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97 || 99,"GHG Protocol table (operational control, joint operations in Scope 3), 2019-2025 revised series. Fossil only; biogenic Scope 1 = 11.98 Mt reported separately. Rounded to 0.01 Mt || ESRS E1-6 table: FINANCIAL consolidation scope, joint operations consolidated at 50% into Scope 1-3. Differs from GHG Protocol table by boundary, not error",97,"Scope 1
+2.27
+2.08
+2.13
+1.79
+1.46
+1.18
+0.99",extraction_correct,"checked p97 and p99: 0.99 is the 2025 column (GHG Protocol), 1.14 is the 2025 column (ESRS); both match"
+P31,Stora Enso Oyj,2025,1,ambiguous_extracted,,False,STORAENSO_Annual_Report_2025.pdf,2025,1.14,"CO2-eq, million tonnes",1140000,990000; 1140000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97 || 99,"GHG Protocol table (operational control, joint operations in Scope 3), 2019-2025 revised series. Fossil only; biogenic Scope 1 = 11.98 Mt reported separately. Rounded to 0.01 Mt || ESRS E1-6 table: FINANCIAL consolidation scope, joint operations consolidated at 50% into Scope 1-3. Differs from GHG Protocol table by boundary, not error",99,"Gross Scope 1 GHG
+emissions (CO2-eq,
+million tonnes)
+2.43
+1.33
+1.14
+ -15 %
+n/a
+n/a",extraction_correct,"checked p97 and p99: 0.99 is the 2025 column (GHG Protocol), 1.14 is the 2025 column (ESRS); both match"
+P18,Stora Enso Oyj,2025,2_market,ambiguous_verified,,False,STORAENSO_Annual_Report_2025.pdf,2025,0.05,"CO2-eq, million tonnes",50000,40000; 50000,MtCO2e,Stora Enso Annual Report 2025 (storaenso.com investors),97 || 99,"GHG Protocol table (operational control, joint operations in Scope 3), 2019-2025 revised series. Fossil only; biogenic Scope 1 = 11.98 Mt reported separately. Rounded to 0.01 Mt || ESRS E1-6 table: FINANCIAL consolidation scope, joint operations consolidated at 50% into Scope 1-3. Differs from GHG Protocol table by boundary, not error",99,"Gross market-based
+Scope 2 GHG emissions
+(CO2-eq, million
+tonnes)
+0.35
+0.06
+0.05
+ -26 %
+n/a
+n/a",extraction_correct,"checked p99: 0.05 is the 2025 column, matches ESRS-table verified value"
+P10,UPM-Kymmene Oyj,2023,2_location,verified_mismatch,,False,upm-annual-report-2024.pdf,2024,"3,020,000",tCO2,3020000,1730000,tCO2e,UPM Annual Report 2024 (upm.com investors),159,"E1-6 table, 2023 comparative column (columns 2015, 2018, 2023, 2024). Confirms AR2023's rounded 1.6 Mt Scope 2 was market-based. Labelled tCO2 (CO2 only). Same mislabelled ETS % row as AR2025",80,"Gross location-based Scope 2 GHG emissions (tCO2)
+ 
+— 
+3,020,000
+1,730,000
+1,640,000",year_column_wrong,"checked p80: 3,020,000 is the 2018 column, dash is 2015"
+P11,UPM-Kymmene Oyj,2024,2_location,verified_mismatch,vintage_difference;year_mapping_suspect,False,upm-annual-report-2024.pdf,2024,"1,730,000",tCO2,1730000,1640000,tCO2e,UPM Annual Report 2025 (upm.com investors),165,"Comparative column. Labelled tCO2: UPM reports CO2 only for Scope 1 (CH4, N2O deemed immaterial). Scope 1 excludes mobile combustion and non-production facilities; includes share of jointly operated on-site power plants. Biogenic Scope 1 = 11.74 Mt",80,"Gross location-based Scope 2 GHG emissions (tCO2)
+ 
+— 
+3,020,000
+1,730,000
+1,640,000",year_column_wrong,"checked p80: 1,730,000 is the 2023 column"
+P32,UPM-Kymmene Oyj,2025,1,ambiguous_extracted,,False,upm_annual_report_2025.pdf,2025,"2,080,000",tCO2,2080000,2080000,tCO2e,UPM Annual Report 2025 (upm.com investors),165,"E1-6 table (PDF p.83, two-page spread). Labelled tCO2: UPM reports CO2 only for Scope 1 (CH4, N2O deemed immaterial). Scope 1 excludes mobile combustion and non-production facilities; includes share of jointly operated on-site power plants. Biogenic Scope 1 = 12.14 Mt reported separately. ETS verification may post-date report; restatement possible",83,"Gross Scope 1 GHG emissions (tCO2)
+3,880,000
+3,250,000
+2,180,000
+2,080,000
+ -5% 
+2,200,000
+1,360,000
+ -46 %",extraction_correct+year_column_wrong,checked p83: row 1 is the retrospective 2025 column; row 2 is the milestone target
+P32,UPM-Kymmene Oyj,2025,1,ambiguous_extracted,,False,upm_annual_report_2025.pdf,2025,"2,200,000",tCO2,2200000,2080000,tCO2e,UPM Annual Report 2025 (upm.com investors),165,"E1-6 table (PDF p.83, two-page spread). Labelled tCO2: UPM reports CO2 only for Scope 1 (CH4, N2O deemed immaterial). Scope 1 excludes mobile combustion and non-production facilities; includes share of jointly operated on-site power plants. Biogenic Scope 1 = 12.14 Mt reported separately. ETS verification may post-date report; restatement possible",83,"Gross Scope 1 GHG emissions (tCO2)
+3,880,000
+3,250,000
+2,180,000
+2,080,000
+ -5% 
+2,200,000
+1,360,000
+ -46 %",extraction_correct+year_column_wrong,checked p83: row 1 is the retrospective 2025 column; row 2 is the milestone target
+P33,UPM-Kymmene Oyj,2025,2_market,ambiguous_extracted,,False,upm_annual_report_2025.pdf,2025,"790,000",tCO2,790000,790000,tCO2e,UPM Annual Report 2025 (upm.com investors),165,"E1-6 table (PDF p.83, two-page spread). Labelled tCO2: UPM reports CO2 only for Scope 1 (CH4, N2O deemed immaterial). Scope 1 excludes mobile combustion and non-production facilities; includes share of jointly operated on-site power plants. Biogenic Scope 1 = 12.14 Mt reported separately. ETS verification may post-date report; restatement possible",83,"Gross market-based Scope 2 GHG emissions (tCO2)
+2,920,000
+3,100,000
+1,200,000
+790,000
+ -34% 
+1,650,000
+1,020,000
+ -73 %",extraction_correct+year_column_wrong,checked p83: same
+P33,UPM-Kymmene Oyj,2025,2_market,ambiguous_extracted,,False,upm_annual_report_2025.pdf,2025,"1,650,000",tCO2,1650000,790000,tCO2e,UPM Annual Report 2025 (upm.com investors),165,"E1-6 table (PDF p.83, two-page spread). Labelled tCO2: UPM reports CO2 only for Scope 1 (CH4, N2O deemed immaterial). Scope 1 excludes mobile combustion and non-production facilities; includes share of jointly operated on-site power plants. Biogenic Scope 1 = 12.14 Mt reported separately. ETS verification may post-date report; restatement possible",83,"Gross market-based Scope 2 GHG emissions (tCO2)
+2,920,000
+3,100,000
+1,200,000
+790,000
+ -34% 
+1,650,000
+1,020,000
+ -73 %",extraction_correct+year_column_wrong,checked p83: same

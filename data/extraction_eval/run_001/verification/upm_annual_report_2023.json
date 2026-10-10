@@ -1,0 +1,52 @@
+[
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 2.1,
+    "unit_as_printed": "m t",
+    "pdf_page": 51,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2.1"
+    },
+    "record_index": 0,
+    "year_label_as_printed": null,
+    "mapped_year": null,
+    "value_as_printed": "2.1"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 1,
+    "year_label_as_printed": null,
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 2,
+    "year_label_as_printed": null,
+    "mapped_year": null,
+    "value_as_printed": null
+  }
+]

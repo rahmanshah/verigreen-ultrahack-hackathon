@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["records"],
+  "properties": {
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "scope",
+          "year_label_as_printed",
+          "mapped_year",
+          "value_as_printed",
+          "unit_as_printed",
+          "pdf_page",
+          "quote",
+          "note",
+          "null_reason"
+        ],
+        "properties": {
+          "scope": {"type": "string", "enum": ["1", "2_location", "2_market"]},
+          "year_label_as_printed": {"type": ["string", "null"]},
+          "mapped_year": {"type": ["integer", "null"]},
+          "value_as_printed": {"type": ["string", "null"]},
+          "unit_as_printed": {"type": ["string", "null"]},
+          "pdf_page": {"type": ["integer", "null"]},
+          "quote": {"type": ["string", "null"]},
+          "note": {"type": ["string", "null"]},
+          "null_reason": {"type": ["string", "null"]}
+        }
+      }
+    }
+  }
+}

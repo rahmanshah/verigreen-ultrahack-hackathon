@@ -1,0 +1,2 @@
+company_id,company_name,fiscal_year,scope1,scope2_location,scope2_market,unit,boundary,source_type,source_url,source_page,retrieved_date,notes
+EXAMPLE,Example Oyj,2024,1250.5,310.2,95.0,ktCO2e,operational_control,sustainability_report,https://example.com/sustainability-report-2024.pdf,47,2026-09-26,Delete this row; values are illustrative only

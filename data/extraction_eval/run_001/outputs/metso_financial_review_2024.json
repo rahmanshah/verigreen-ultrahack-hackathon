@@ -1,0 +1,205 @@
+{
+  "file": "metso-financial-review-2024.pdf",
+  "company": "Metso",
+  "report_fiscal_year": 2024,
+  "pdf_type": "financial statements",
+  "finder_pages": [
+    35,
+    39,
+    40
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "1",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "37,670",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 39,
+      "quote": "Gross Scope 1 GHG emissions tCO2e\n37,670\n36,912\n37,870",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 37670,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "1",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "36,912",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 39,
+      "quote": "Gross Scope 1 GHG emissions tCO2e\n37,670\n36,912\n37,870",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 36912,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "1",
+      "year_label_as_printed": "2019",
+      "mapped_year": 2019,
+      "value_as_printed": "37,870",
+      "unit_as_printed": "tCO2e",
+      "pdf_page": 39,
+      "quote": "Gross Scope 1 GHG emissions tCO2e\n37,670\n36,912\n37,870",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 37870,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 3,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "2_location",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "75,652",
+      "unit_as_printed": "(tCO2e)",
+      "pdf_page": 39,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2e)\n75,652\n76,956\n78,483",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 75652,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 4,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "2_location",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "76,956",
+      "unit_as_printed": "(tCO2e)",
+      "pdf_page": 39,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2e)\n75,652\n76,956\n78,483",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 76956,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 5,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "2_location",
+      "year_label_as_printed": "2019",
+      "mapped_year": 2019,
+      "value_as_printed": "78,483",
+      "unit_as_printed": "(tCO2e)",
+      "pdf_page": 39,
+      "quote": "Gross location-based Scope 2 GHG emissions (tCO2e)\n75,652\n76,956\n78,483",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 78483,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 6,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "2_market",
+      "year_label_as_printed": "2024",
+      "mapped_year": 2024,
+      "value_as_printed": "3,308",
+      "unit_as_printed": "(tCO2e)",
+      "pdf_page": 39,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2e)\n3,308\n3,229\n83,338",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 3308,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 7,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "2_market",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "3,229",
+      "unit_as_printed": "(tCO2e)",
+      "pdf_page": 39,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2e)\n3,308\n3,229\n83,338",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 3229,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 8,
+      "company": "Metso",
+      "report_file": "metso-financial-review-2024.pdf",
+      "report_fiscal_year": 2024,
+      "scope": "2_market",
+      "year_label_as_printed": "2019",
+      "mapped_year": 2019,
+      "value_as_printed": "83,338",
+      "unit_as_printed": "(tCO2e)",
+      "pdf_page": 39,
+      "quote": "Gross market-based Scope 2 GHG emissions (tCO2e)\n3,308\n3,229\n83,338",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 83338,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    }
+  ]
+}

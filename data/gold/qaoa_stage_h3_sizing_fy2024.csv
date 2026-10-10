@@ -1,0 +1,7 @@
+p,coupling,depth_min,depth_median,depth_max,cz_min,cz_median,cz_max,gates_median,n_seeds,optimization_level,best_seed
+0,all_to_all,1,1,1,0,0,0,4,20,3,0
+0,line,1,1,1,0,0,0,4,20,3,0
+0,grid_2x2,1,1,1,0,0,0,4,20,3,0
+1,all_to_all,31,31,31,12,12,12,59,20,3,0
+1,line,44,44,48,17,17,19,82,20,3,0
+1,grid_2x2,33,39.5,46,14,18,18,76,20,3,1

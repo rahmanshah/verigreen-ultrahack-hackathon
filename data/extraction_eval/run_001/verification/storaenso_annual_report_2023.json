@@ -1,0 +1,330 @@
+[
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 1.47,
+    "unit_as_printed": "CO2-eq, million tonnes",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1.47"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1.47"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 1.8,
+    "unit_as_printed": "CO2-eq, million tonnes",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1.80"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "1.80"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 2.15,
+    "unit_as_printed": "CO2-eq, million tonnes",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2.15"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "2.15"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.05,
+    "unit_as_printed": "CO2-eq, million tonnes",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 50000 t vs location 510000 t, ratio 10.2 > 10"
+    ],
+    "details": {
+      "b_matched_text": "0.05"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "0.05"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.08,
+    "unit_as_printed": "CO2-eq, million tonnes",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.08"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "0.08"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.1,
+    "unit_as_printed": "CO2-eq, million tonnes",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.10"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "0.10"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 2.29,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2.29"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2019",
+    "mapped_year": 2019,
+    "value_as_printed": "2.29"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 2.09,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2.09"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2020",
+    "mapped_year": 2020,
+    "value_as_printed": "2.09"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 2.15,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2.15"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "2.15"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 1.8,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1.80"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "1.80"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "1",
+    "value": 1.47,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1.47"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1.47"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.29,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.29"
+    },
+    "record_index": 11,
+    "year_label_as_printed": "2019",
+    "mapped_year": 2019,
+    "value_as_printed": "0.29"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.19,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.19"
+    },
+    "record_index": 12,
+    "year_label_as_printed": "2020",
+    "mapped_year": 2020,
+    "value_as_printed": "0.19"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.1,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.10"
+    },
+    "record_index": 13,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "0.10"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.08,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.08"
+    },
+    "record_index": 14,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "0.08"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_market",
+    "value": 0.05,
+    "unit_as_printed": "Fossil CO2 equivalent (million tonnes)",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.05"
+    },
+    "record_index": 15,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "0.05"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_location",
+    "value": 0.51,
+    "unit_as_printed": "million tonnes of CO2 equivalents",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 50000 t vs location 510000 t, ratio 10.2 > 10"
+    ],
+    "details": {
+      "b_matched_text": "0.51"
+    },
+    "record_index": 16,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "0.51"
+  },
+  {
+    "company": "Stora Enso",
+    "scope": "2_location",
+    "value": 0.6,
+    "unit_as_printed": "million tonnes of CO2 equivalents",
+    "pdf_page": 67,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "0.60"
+    },
+    "record_index": 17,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "0.60"
+  }
+]

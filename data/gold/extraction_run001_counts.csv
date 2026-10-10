@@ -1,0 +1,69 @@
+section,label,count,denominator,note
+run,calls_total,30,,rows of cost_ledger.csv: extraction calls plus the availability call
+run,extraction_calls,29,,
+run,availability_calls,1,,
+run,pdfs_in_run,30,,
+run,pdfs_no_pages_found,1,30,no call and no cost for these
+run,records,451,,
+run,nulls,77,,
+run,values,374,,records minus nulls
+run,verifier_pass,325,374,
+run,verifier_fail,49,374,
+run,cost_eur,0.043313375,,"EUR, run_summary.json cumulative_eur; prices recalled from earlier notes, not re-verified; 1 USD = 1 EUR assumed"
+run,input_tokens,140499,,
+run,output_tokens,51502,,
+run,reasoning_tokens,9420,,as reported in the ledger
+run,model_returned,30,30,gpt-6-luna
+verifier_failures,value_parse,19,49,
+verifier_failures,quote_page,30,49,all quote/page failures are on the same records as the a_quote_on_page and c_page_index checks
+verifier_failures,a_quote_on_page,30,49,
+verifier_failures,c_page_index,30,49,
+verifier_failures,number_matches,1,49,1 of the 49 failing records also failed the number check
+scoring_pairs,verified_match,57,119,
+scoring_pairs,verified_match_exact,56,57,
+scoring_pairs,verified_match_near,1,57,
+scoring_pairs,ambiguous_extracted,15,119,
+scoring_pairs,ambiguous_verified,7,119,
+scoring_pairs,verified_mismatch,11,119,
+scoring_pairs,unit_ambiguous,14,119,
+scoring_pairs,unit_ambiguous_tons,8,14,
+scoring_pairs,unit_ambiguous_as_indicated,6,14,
+scoring_pairs,not_extracted,9,119,
+scoring_pairs,extracted_failed_verifier,6,119,
+scoring_pairs,total,119,119,
+scoring_pairs,not_scorable_total,29,119,unit_ambiguous + not_extracted + extracted_failed_verifier
+scoring_pairs,matches_also_equal_other_year,5,57,
+keys,no_source_pdf,9,131,
+keys,spike_only,18,131,
+keys,has_main_pair,104,131,
+spike_pairs,verified_match,15,18,
+spike_pairs,ambiguous_extracted,3,18,
+spike_pairs,ambiguous_verified,0,18,
+spike_pairs,verified_mismatch,0,18,
+spike_pairs,unit_ambiguous,0,18,
+spike_pairs,not_extracted,0,18,
+spike_pairs,extracted_failed_verifier,0,18,
+adjudication,pairs_reviewed,33,,"pairs that differed or were ambiguous; one person, suggested verdicts in front of them: a first review, not independent"
+adjudication,matches_not_reviewed,57,119,"compared by number, not reviewed by a person"
+adjudication,spike_pairs_not_adjudicated,3,,"spike, not blind"
+adjudication,category_verified_mismatch,11,33,
+adjudication,category_ambiguous_verified,7,33,
+adjudication,category_ambiguous_extracted,15,33,
+adjudication,verdict_boundary_or_method,2,33,exact verdict string as recorded
+adjudication,verdict_extraction_correct,10,33,exact verdict string as recorded
+adjudication,verdict_extraction_correct+boundary_or_method,4,33,exact verdict string as recorded
+adjudication,verdict_extraction_correct+year_column_wrong,8,33,exact verdict string as recorded
+adjudication,verdict_vintage_or_restatement,7,33,exact verdict string as recorded
+adjudication,verdict_year_column_wrong,2,33,exact verdict string as recorded
+adjudication,token_vintage_or_restatement,7,33,"combined verdicts count once under each token, so tokens add to more than the pairs reviewed"
+adjudication,token_boundary_or_method,6,33,"combined verdicts count once under each token, so tokens add to more than the pairs reviewed"
+adjudication,token_year_column_wrong,10,33,"combined verdicts count once under each token, so tokens add to more than the pairs reviewed"
+adjudication,token_extraction_correct,22,33,"combined verdicts count once under each token, so tokens add to more than the pairs reviewed"
+adjudication,year_column_wrong_pairs,10,33,
+adjudication,year_column_wrong_more_than_one_candidate,8,10,the correct number was also extracted
+adjudication,year_column_wrong_one_candidate,2,10,only one candidate row; nothing signalled it
+adjudication,boundary_or_method_in_verified_mismatch,2,11,
+adjudication,boundary_or_method_in_ambiguous_extracted,4,15,extra row from a table with a different boundary; from the verdict token
+adjudication,pattern_wrong_entity,1,33,counted by keyword in reviewer notes
+scorer_labels,vintage_difference_right,3,4,pairs the scorer labelled vintage_difference whose reviewer verdict contains vintage_or_restatement
+scorer_labels,year_mapping_suspect_real_error,1,3,pairs the scorer labelled year_mapping_suspect; real error = reviewer verdict contains year_column_wrong

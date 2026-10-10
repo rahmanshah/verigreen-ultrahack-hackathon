@@ -1,0 +1,318 @@
+section,group_type,group,category,detail,count,denominator,denominator_label
+key_states,all,all,no_source_pdf,,9,131,keys N
+key_states,all,all,spike_only,,18,131,keys N
+key_states,all,all,has_main_pair,,104,131,keys N
+key_states,company,Elisa Oyj,no_source_pdf,,0,9,keys N
+key_states,company,Elisa Oyj,spike_only,,6,9,keys N
+key_states,company,Elisa Oyj,has_main_pair,,3,9,keys N
+key_states,company,Fortum Oyj,no_source_pdf,,3,9,keys N
+key_states,company,Fortum Oyj,spike_only,,0,9,keys N
+key_states,company,Fortum Oyj,has_main_pair,,6,9,keys N
+key_states,company,KONE Oyj,no_source_pdf,,3,9,keys N
+key_states,company,KONE Oyj,spike_only,,0,9,keys N
+key_states,company,KONE Oyj,has_main_pair,,6,9,keys N
+key_states,company,Kemira Oyj,no_source_pdf,,0,9,keys N
+key_states,company,Kemira Oyj,spike_only,,0,9,keys N
+key_states,company,Kemira Oyj,has_main_pair,,9,9,keys N
+key_states,company,Kesko Oyj,no_source_pdf,,0,8,keys N
+key_states,company,Kesko Oyj,spike_only,,0,8,keys N
+key_states,company,Kesko Oyj,has_main_pair,,8,8,keys N
+key_states,company,Metso Oyj,no_source_pdf,,0,9,keys N
+key_states,company,Metso Oyj,spike_only,,0,9,keys N
+key_states,company,Metso Oyj,has_main_pair,,9,9,keys N
+key_states,company,Neste Oyj,no_source_pdf,,3,9,keys N
+key_states,company,Neste Oyj,spike_only,,0,9,keys N
+key_states,company,Neste Oyj,has_main_pair,,6,9,keys N
+key_states,company,Nokia Oyj,no_source_pdf,,0,8,keys N
+key_states,company,Nokia Oyj,spike_only,,0,8,keys N
+key_states,company,Nokia Oyj,has_main_pair,,8,8,keys N
+key_states,company,Nordea Bank Abp,no_source_pdf,,0,9,keys N
+key_states,company,Nordea Bank Abp,spike_only,,0,9,keys N
+key_states,company,Nordea Bank Abp,has_main_pair,,9,9,keys N
+key_states,company,Orion Oyj,no_source_pdf,,0,9,keys N
+key_states,company,Orion Oyj,spike_only,,6,9,keys N
+key_states,company,Orion Oyj,has_main_pair,,3,9,keys N
+key_states,company,Outokumpu Oyj,no_source_pdf,,0,9,keys N
+key_states,company,Outokumpu Oyj,spike_only,,6,9,keys N
+key_states,company,Outokumpu Oyj,has_main_pair,,3,9,keys N
+key_states,company,Sampo Oyj,no_source_pdf,,0,8,keys N
+key_states,company,Sampo Oyj,spike_only,,0,8,keys N
+key_states,company,Sampo Oyj,has_main_pair,,8,8,keys N
+key_states,company,Stora Enso Oyj,no_source_pdf,,0,8,keys N
+key_states,company,Stora Enso Oyj,spike_only,,0,8,keys N
+key_states,company,Stora Enso Oyj,has_main_pair,,8,8,keys N
+key_states,company,UPM-Kymmene Oyj,no_source_pdf,,0,9,keys N
+key_states,company,UPM-Kymmene Oyj,spike_only,,0,9,keys N
+key_states,company,UPM-Kymmene Oyj,has_main_pair,,9,9,keys N
+key_states,company,Wartsila Oyj,no_source_pdf,,0,9,keys N
+key_states,company,Wartsila Oyj,spike_only,,0,9,keys N
+key_states,company,Wartsila Oyj,has_main_pair,,9,9,keys N
+key_states,scope,1,no_source_pdf,,3,45,keys N
+key_states,scope,1,spike_only,,6,45,keys N
+key_states,scope,1,has_main_pair,,36,45,keys N
+key_states,scope,2_location,no_source_pdf,,3,41,keys N
+key_states,scope,2_location,spike_only,,6,41,keys N
+key_states,scope,2_location,has_main_pair,,32,41,keys N
+key_states,scope,2_market,no_source_pdf,,3,45,keys N
+key_states,scope,2_market,spike_only,,6,45,keys N
+key_states,scope,2_market,has_main_pair,,36,45,keys N
+excluded_keys,all,all,derived_not_extractable,,0,131,keys with any verified cell in 2023-2025
+excluded_keys,all,all,third_party_only,,0,131,keys with any verified cell in 2023-2025
+excluded_keys,scope,1,derived_not_extractable,,0,45,keys with any verified cell in 2023-2025
+excluded_keys,scope,1,eligible_keys_with_derived_cells_ignored,,0,45,keys with any verified cell in 2023-2025
+excluded_keys,scope,2_location,derived_not_extractable,,0,41,keys with any verified cell in 2023-2025
+excluded_keys,scope,2_location,eligible_keys_with_derived_cells_ignored,,0,41,keys with any verified cell in 2023-2025
+excluded_keys,scope,2_market,derived_not_extractable,,0,45,keys with any verified cell in 2023-2025
+excluded_keys,scope,2_market,eligible_keys_with_derived_cells_ignored,,0,45,keys with any verified cell in 2023-2025
+excluded_keys,all,all,multi_valued_primary_keys,,6,131,keys N
+main_pairs,all,all,not_extracted,,9,119,pairs P
+main_pairs,all,all,extracted_failed_verifier,,6,119,pairs P
+main_pairs,all,all,unit_ambiguous,,14,119,pairs P
+main_pairs,all,all,verified_match,,57,119,pairs P
+main_pairs,all,all,ambiguous_extracted,,15,119,pairs P
+main_pairs,all,all,ambiguous_verified,,7,119,pairs P
+main_pairs,all,all,verified_mismatch,,11,119,pairs P
+main_pairs,company,Elisa Oyj,not_extracted,,1,3,pairs P
+main_pairs,company,Elisa Oyj,extracted_failed_verifier,,0,3,pairs P
+main_pairs,company,Elisa Oyj,unit_ambiguous,,0,3,pairs P
+main_pairs,company,Elisa Oyj,verified_match,,2,3,pairs P
+main_pairs,company,Elisa Oyj,ambiguous_extracted,,0,3,pairs P
+main_pairs,company,Elisa Oyj,ambiguous_verified,,0,3,pairs P
+main_pairs,company,Elisa Oyj,verified_mismatch,,0,3,pairs P
+main_pairs,company,Fortum Oyj,not_extracted,,0,6,pairs P
+main_pairs,company,Fortum Oyj,extracted_failed_verifier,,0,6,pairs P
+main_pairs,company,Fortum Oyj,unit_ambiguous,,6,6,pairs P
+main_pairs,company,Fortum Oyj,verified_match,,0,6,pairs P
+main_pairs,company,Fortum Oyj,ambiguous_extracted,,0,6,pairs P
+main_pairs,company,Fortum Oyj,ambiguous_verified,,0,6,pairs P
+main_pairs,company,Fortum Oyj,verified_mismatch,,0,6,pairs P
+main_pairs,company,KONE Oyj,not_extracted,,0,6,pairs P
+main_pairs,company,KONE Oyj,extracted_failed_verifier,,6,6,pairs P
+main_pairs,company,KONE Oyj,unit_ambiguous,,0,6,pairs P
+main_pairs,company,KONE Oyj,verified_match,,0,6,pairs P
+main_pairs,company,KONE Oyj,ambiguous_extracted,,0,6,pairs P
+main_pairs,company,KONE Oyj,ambiguous_verified,,0,6,pairs P
+main_pairs,company,KONE Oyj,verified_mismatch,,0,6,pairs P
+main_pairs,company,Kemira Oyj,not_extracted,,0,9,pairs P
+main_pairs,company,Kemira Oyj,extracted_failed_verifier,,0,9,pairs P
+main_pairs,company,Kemira Oyj,unit_ambiguous,,0,9,pairs P
+main_pairs,company,Kemira Oyj,verified_match,,6,9,pairs P
+main_pairs,company,Kemira Oyj,ambiguous_extracted,,0,9,pairs P
+main_pairs,company,Kemira Oyj,ambiguous_verified,,0,9,pairs P
+main_pairs,company,Kemira Oyj,verified_mismatch,,3,9,pairs P
+main_pairs,company,Kesko Oyj,not_extracted,,0,8,pairs P
+main_pairs,company,Kesko Oyj,extracted_failed_verifier,,0,8,pairs P
+main_pairs,company,Kesko Oyj,unit_ambiguous,,0,8,pairs P
+main_pairs,company,Kesko Oyj,verified_match,,0,8,pairs P
+main_pairs,company,Kesko Oyj,ambiguous_extracted,,7,8,pairs P
+main_pairs,company,Kesko Oyj,ambiguous_verified,,0,8,pairs P
+main_pairs,company,Kesko Oyj,verified_mismatch,,1,8,pairs P
+main_pairs,company,Metso Oyj,not_extracted,,3,18,pairs P
+main_pairs,company,Metso Oyj,extracted_failed_verifier,,0,18,pairs P
+main_pairs,company,Metso Oyj,unit_ambiguous,,0,18,pairs P
+main_pairs,company,Metso Oyj,verified_match,,6,18,pairs P
+main_pairs,company,Metso Oyj,ambiguous_extracted,,0,18,pairs P
+main_pairs,company,Metso Oyj,ambiguous_verified,,6,18,pairs P
+main_pairs,company,Metso Oyj,verified_mismatch,,3,18,pairs P
+main_pairs,company,Neste Oyj,not_extracted,,0,6,pairs P
+main_pairs,company,Neste Oyj,extracted_failed_verifier,,0,6,pairs P
+main_pairs,company,Neste Oyj,unit_ambiguous,,6,6,pairs P
+main_pairs,company,Neste Oyj,verified_match,,0,6,pairs P
+main_pairs,company,Neste Oyj,ambiguous_extracted,,0,6,pairs P
+main_pairs,company,Neste Oyj,ambiguous_verified,,0,6,pairs P
+main_pairs,company,Neste Oyj,verified_mismatch,,0,6,pairs P
+main_pairs,company,Nokia Oyj,not_extracted,,0,8,pairs P
+main_pairs,company,Nokia Oyj,extracted_failed_verifier,,0,8,pairs P
+main_pairs,company,Nokia Oyj,unit_ambiguous,,2,8,pairs P
+main_pairs,company,Nokia Oyj,verified_match,,6,8,pairs P
+main_pairs,company,Nokia Oyj,ambiguous_extracted,,0,8,pairs P
+main_pairs,company,Nokia Oyj,ambiguous_verified,,0,8,pairs P
+main_pairs,company,Nokia Oyj,verified_mismatch,,0,8,pairs P
+main_pairs,company,Nordea Bank Abp,not_extracted,,1,9,pairs P
+main_pairs,company,Nordea Bank Abp,extracted_failed_verifier,,0,9,pairs P
+main_pairs,company,Nordea Bank Abp,unit_ambiguous,,0,9,pairs P
+main_pairs,company,Nordea Bank Abp,verified_match,,8,9,pairs P
+main_pairs,company,Nordea Bank Abp,ambiguous_extracted,,0,9,pairs P
+main_pairs,company,Nordea Bank Abp,ambiguous_verified,,0,9,pairs P
+main_pairs,company,Nordea Bank Abp,verified_mismatch,,0,9,pairs P
+main_pairs,company,Orion Oyj,not_extracted,,0,3,pairs P
+main_pairs,company,Orion Oyj,extracted_failed_verifier,,0,3,pairs P
+main_pairs,company,Orion Oyj,unit_ambiguous,,0,3,pairs P
+main_pairs,company,Orion Oyj,verified_match,,3,3,pairs P
+main_pairs,company,Orion Oyj,ambiguous_extracted,,0,3,pairs P
+main_pairs,company,Orion Oyj,ambiguous_verified,,0,3,pairs P
+main_pairs,company,Orion Oyj,verified_mismatch,,0,3,pairs P
+main_pairs,company,Outokumpu Oyj,not_extracted,,0,3,pairs P
+main_pairs,company,Outokumpu Oyj,extracted_failed_verifier,,0,3,pairs P
+main_pairs,company,Outokumpu Oyj,unit_ambiguous,,0,3,pairs P
+main_pairs,company,Outokumpu Oyj,verified_match,,3,3,pairs P
+main_pairs,company,Outokumpu Oyj,ambiguous_extracted,,0,3,pairs P
+main_pairs,company,Outokumpu Oyj,ambiguous_verified,,0,3,pairs P
+main_pairs,company,Outokumpu Oyj,verified_mismatch,,0,3,pairs P
+main_pairs,company,Sampo Oyj,not_extracted,,1,8,pairs P
+main_pairs,company,Sampo Oyj,extracted_failed_verifier,,0,8,pairs P
+main_pairs,company,Sampo Oyj,unit_ambiguous,,0,8,pairs P
+main_pairs,company,Sampo Oyj,verified_match,,2,8,pairs P
+main_pairs,company,Sampo Oyj,ambiguous_extracted,,4,8,pairs P
+main_pairs,company,Sampo Oyj,ambiguous_verified,,0,8,pairs P
+main_pairs,company,Sampo Oyj,verified_mismatch,,1,8,pairs P
+main_pairs,company,Stora Enso Oyj,not_extracted,,0,8,pairs P
+main_pairs,company,Stora Enso Oyj,extracted_failed_verifier,,0,8,pairs P
+main_pairs,company,Stora Enso Oyj,unit_ambiguous,,0,8,pairs P
+main_pairs,company,Stora Enso Oyj,verified_match,,4,8,pairs P
+main_pairs,company,Stora Enso Oyj,ambiguous_extracted,,2,8,pairs P
+main_pairs,company,Stora Enso Oyj,ambiguous_verified,,1,8,pairs P
+main_pairs,company,Stora Enso Oyj,verified_mismatch,,1,8,pairs P
+main_pairs,company,UPM-Kymmene Oyj,not_extracted,,3,15,pairs P
+main_pairs,company,UPM-Kymmene Oyj,extracted_failed_verifier,,0,15,pairs P
+main_pairs,company,UPM-Kymmene Oyj,unit_ambiguous,,0,15,pairs P
+main_pairs,company,UPM-Kymmene Oyj,verified_match,,8,15,pairs P
+main_pairs,company,UPM-Kymmene Oyj,ambiguous_extracted,,2,15,pairs P
+main_pairs,company,UPM-Kymmene Oyj,ambiguous_verified,,0,15,pairs P
+main_pairs,company,UPM-Kymmene Oyj,verified_mismatch,,2,15,pairs P
+main_pairs,company,Wartsila Oyj,not_extracted,,0,9,pairs P
+main_pairs,company,Wartsila Oyj,extracted_failed_verifier,,0,9,pairs P
+main_pairs,company,Wartsila Oyj,unit_ambiguous,,0,9,pairs P
+main_pairs,company,Wartsila Oyj,verified_match,,9,9,pairs P
+main_pairs,company,Wartsila Oyj,ambiguous_extracted,,0,9,pairs P
+main_pairs,company,Wartsila Oyj,ambiguous_verified,,0,9,pairs P
+main_pairs,company,Wartsila Oyj,verified_mismatch,,0,9,pairs P
+main_pairs,scope,1,not_extracted,,2,41,pairs P
+main_pairs,scope,1,extracted_failed_verifier,,2,41,pairs P
+main_pairs,scope,1,unit_ambiguous,,5,41,pairs P
+main_pairs,scope,1,verified_match,,19,41,pairs P
+main_pairs,scope,1,ambiguous_extracted,,8,41,pairs P
+main_pairs,scope,1,ambiguous_verified,,2,41,pairs P
+main_pairs,scope,1,verified_mismatch,,3,41,pairs P
+main_pairs,scope,2_location,not_extracted,,3,37,pairs P
+main_pairs,scope,2_location,extracted_failed_verifier,,2,37,pairs P
+main_pairs,scope,2_location,unit_ambiguous,,4,37,pairs P
+main_pairs,scope,2_location,verified_match,,20,37,pairs P
+main_pairs,scope,2_location,ambiguous_extracted,,2,37,pairs P
+main_pairs,scope,2_location,ambiguous_verified,,2,37,pairs P
+main_pairs,scope,2_location,verified_mismatch,,4,37,pairs P
+main_pairs,scope,2_market,not_extracted,,4,41,pairs P
+main_pairs,scope,2_market,extracted_failed_verifier,,2,41,pairs P
+main_pairs,scope,2_market,unit_ambiguous,,5,41,pairs P
+main_pairs,scope,2_market,verified_match,,18,41,pairs P
+main_pairs,scope,2_market,ambiguous_extracted,,5,41,pairs P
+main_pairs,scope,2_market,ambiguous_verified,,3,41,pairs P
+main_pairs,scope,2_market,verified_mismatch,,4,41,pairs P
+main_pair_detail,all,all,not_extracted,reason=finder_no_pages,3,9,not_extracted pairs
+main_pair_detail,all,all,not_extracted,reason=no_record_for_key,3,9,not_extracted pairs
+main_pair_detail,all,all,not_extracted,reason=only_unmapped_labels,1,9,not_extracted pairs
+main_pair_detail,all,all,not_extracted,reason=scope_null,2,9,not_extracted pairs
+main_pair_detail,all,all,unit_ambiguous,reason=as_indicated,6,14,unit_ambiguous pairs
+main_pair_detail,all,all,unit_ambiguous,reason=tons,8,14,unit_ambiguous pairs
+main_pair_detail,all,all,verified_match,tier=exact,56,57,verified_match pairs
+main_pair_detail,all,all,verified_match,tier=near,1,57,verified_match pairs
+main_pair_detail,all,all,ambiguous_extracted,tier=exact,15,15,ambiguous_extracted pairs
+main_pair_detail,all,all,ambiguous_verified,tier=exact,7,7,ambiguous_verified pairs
+main_pair_detail,all,all,verified_mismatch,label=none,6,11,verified_mismatch pairs
+main_pair_detail,all,all,verified_mismatch,label=vintage_difference,4,11,verified_mismatch pairs
+main_pair_detail,all,all,verified_mismatch,label=year_mapping_suspect,3,11,verified_mismatch pairs
+main_pair_detail,all,all,verified_mismatch,multi_candidate,2,11,verified_mismatch pairs
+main_pair_detail,all,all,verified_match,assumed_thousands_separator,38,57,verified_match pairs
+main_pair_detail,all,all,verified_match,also_matches_other_year,5,57,verified_match pairs
+main_pair_detail,all,all,verified_match,d_sanity_flag,6,57,verified_match pairs
+main_sensitivity_tons,all,all,unit_ambiguous_tons_only,would_be_verified_match,8,8,unit_ambiguous pairs where only tons-class units blocked scoring
+main_sensitivity_tons,all,all,unit_ambiguous_tons_only,would_be_verified_match_exact,8,8,unit_ambiguous pairs where only tons-class units blocked scoring
+main_sensitivity_tons,all,all,unit_ambiguous_tons_only,would_be_verified_match_near,0,8,unit_ambiguous pairs where only tons-class units blocked scoring
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,exact,12,12,valued records that did not pass the verifier
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,near,0,12,valued records that did not pass the verifier
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,other,0,12,valued records that did not pass the verifier
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,not_comparable,0,12,valued records that did not pass the verifier
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,check,a_quote_on_page,12,12,valued records that did not pass the verifier
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,check,b_number_matches,1,12,valued records that did not pass the verifier
+main_failed_records_NOT_A_PIPELINE_RESULT,all,all,check,c_page_index,12,12,valued records that did not pass the verifier
+main_records,all,all,unmapped,,63,409,extracted records
+main_records,all,all,year_outside_2023_2025,,158,409,extracted records
+main_records,all,all,no_verified_key,,9,409,extracted records
+main_records,all,all,outside_r2_window,,17,409,extracted records
+main_records,all,all,in_pair_scope,,162,409,extracted records
+main_records,all,all,unmapped,valued,47,409,extracted records
+main_records,all,all,unmapped,no_value,16,409,extracted records
+spike_pairs,all,all,not_extracted,,0,18,pairs P
+spike_pairs,all,all,extracted_failed_verifier,,0,18,pairs P
+spike_pairs,all,all,unit_ambiguous,,0,18,pairs P
+spike_pairs,all,all,verified_match,,15,18,pairs P
+spike_pairs,all,all,ambiguous_extracted,,3,18,pairs P
+spike_pairs,all,all,ambiguous_verified,,0,18,pairs P
+spike_pairs,all,all,verified_mismatch,,0,18,pairs P
+spike_pairs,company,Elisa Oyj,not_extracted,,0,6,pairs P
+spike_pairs,company,Elisa Oyj,extracted_failed_verifier,,0,6,pairs P
+spike_pairs,company,Elisa Oyj,unit_ambiguous,,0,6,pairs P
+spike_pairs,company,Elisa Oyj,verified_match,,6,6,pairs P
+spike_pairs,company,Elisa Oyj,ambiguous_extracted,,0,6,pairs P
+spike_pairs,company,Elisa Oyj,ambiguous_verified,,0,6,pairs P
+spike_pairs,company,Elisa Oyj,verified_mismatch,,0,6,pairs P
+spike_pairs,company,Orion Oyj,not_extracted,,0,6,pairs P
+spike_pairs,company,Orion Oyj,extracted_failed_verifier,,0,6,pairs P
+spike_pairs,company,Orion Oyj,unit_ambiguous,,0,6,pairs P
+spike_pairs,company,Orion Oyj,verified_match,,3,6,pairs P
+spike_pairs,company,Orion Oyj,ambiguous_extracted,,3,6,pairs P
+spike_pairs,company,Orion Oyj,ambiguous_verified,,0,6,pairs P
+spike_pairs,company,Orion Oyj,verified_mismatch,,0,6,pairs P
+spike_pairs,company,Outokumpu Oyj,not_extracted,,0,6,pairs P
+spike_pairs,company,Outokumpu Oyj,extracted_failed_verifier,,0,6,pairs P
+spike_pairs,company,Outokumpu Oyj,unit_ambiguous,,0,6,pairs P
+spike_pairs,company,Outokumpu Oyj,verified_match,,6,6,pairs P
+spike_pairs,company,Outokumpu Oyj,ambiguous_extracted,,0,6,pairs P
+spike_pairs,company,Outokumpu Oyj,ambiguous_verified,,0,6,pairs P
+spike_pairs,company,Outokumpu Oyj,verified_mismatch,,0,6,pairs P
+spike_pairs,scope,1,not_extracted,,0,6,pairs P
+spike_pairs,scope,1,extracted_failed_verifier,,0,6,pairs P
+spike_pairs,scope,1,unit_ambiguous,,0,6,pairs P
+spike_pairs,scope,1,verified_match,,5,6,pairs P
+spike_pairs,scope,1,ambiguous_extracted,,1,6,pairs P
+spike_pairs,scope,1,ambiguous_verified,,0,6,pairs P
+spike_pairs,scope,1,verified_mismatch,,0,6,pairs P
+spike_pairs,scope,2_location,not_extracted,,0,6,pairs P
+spike_pairs,scope,2_location,extracted_failed_verifier,,0,6,pairs P
+spike_pairs,scope,2_location,unit_ambiguous,,0,6,pairs P
+spike_pairs,scope,2_location,verified_match,,5,6,pairs P
+spike_pairs,scope,2_location,ambiguous_extracted,,1,6,pairs P
+spike_pairs,scope,2_location,ambiguous_verified,,0,6,pairs P
+spike_pairs,scope,2_location,verified_mismatch,,0,6,pairs P
+spike_pairs,scope,2_market,not_extracted,,0,6,pairs P
+spike_pairs,scope,2_market,extracted_failed_verifier,,0,6,pairs P
+spike_pairs,scope,2_market,unit_ambiguous,,0,6,pairs P
+spike_pairs,scope,2_market,verified_match,,5,6,pairs P
+spike_pairs,scope,2_market,ambiguous_extracted,,1,6,pairs P
+spike_pairs,scope,2_market,ambiguous_verified,,0,6,pairs P
+spike_pairs,scope,2_market,verified_mismatch,,0,6,pairs P
+spike_pair_detail,all,all,verified_match,tier=exact,15,15,verified_match pairs
+spike_pair_detail,all,all,ambiguous_extracted,tier=exact,3,3,ambiguous_extracted pairs
+spike_pair_detail,all,all,verified_mismatch,multi_candidate,0,0,verified_mismatch pairs
+spike_pair_detail,all,all,verified_match,assumed_thousands_separator,12,15,verified_match pairs
+spike_pair_detail,all,all,verified_match,also_matches_other_year,1,15,verified_match pairs
+spike_pair_detail,all,all,verified_match,d_sanity_flag,4,15,verified_match pairs
+spike_sensitivity_tons,all,all,unit_ambiguous_tons_only,would_be_verified_match,0,0,unit_ambiguous pairs where only tons-class units blocked scoring
+spike_sensitivity_tons,all,all,unit_ambiguous_tons_only,would_be_verified_match_exact,0,0,unit_ambiguous pairs where only tons-class units blocked scoring
+spike_sensitivity_tons,all,all,unit_ambiguous_tons_only,would_be_verified_match_near,0,0,unit_ambiguous pairs where only tons-class units blocked scoring
+spike_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,exact,0,0,valued records that did not pass the verifier
+spike_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,near,0,0,valued records that did not pass the verifier
+spike_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,other,0,0,valued records that did not pass the verifier
+spike_failed_records_NOT_A_PIPELINE_RESULT,all,all,tier,not_comparable,0,0,valued records that did not pass the verifier
+spike_records,all,all,unmapped,,6,42,extracted records
+spike_records,all,all,year_outside_2023_2025,,15,42,extracted records
+spike_records,all,all,no_verified_key,,0,42,extracted records
+spike_records,all,all,outside_r2_window,,0,42,extracted records
+spike_records,all,all,in_pair_scope,,21,42,extracted records
+spike_records,all,all,unmapped,valued,5,42,extracted records
+spike_records,all,all,unmapped,no_value,1,42,extracted records
+key_rollup,all,all,not_extracted,one_report,3,104,keys with >= 1 main pair
+key_rollup,all,all,not_extracted,several_reports_same_category,0,104,keys with >= 1 main pair
+key_rollup,all,all,extracted_failed_verifier,one_report,6,104,keys with >= 1 main pair
+key_rollup,all,all,extracted_failed_verifier,several_reports_same_category,0,104,keys with >= 1 main pair
+key_rollup,all,all,unit_ambiguous,one_report,14,104,keys with >= 1 main pair
+key_rollup,all,all,unit_ambiguous,several_reports_same_category,0,104,keys with >= 1 main pair
+key_rollup,all,all,verified_match,one_report,47,104,keys with >= 1 main pair
+key_rollup,all,all,verified_match,several_reports_same_category,2,104,keys with >= 1 main pair
+key_rollup,all,all,ambiguous_extracted,one_report,15,104,keys with >= 1 main pair
+key_rollup,all,all,ambiguous_extracted,several_reports_same_category,0,104,keys with >= 1 main pair
+key_rollup,all,all,ambiguous_verified,one_report,1,104,keys with >= 1 main pair
+key_rollup,all,all,ambiguous_verified,several_reports_same_category,0,104,keys with >= 1 main pair
+key_rollup,all,all,verified_mismatch,one_report,6,104,keys with >= 1 main pair
+key_rollup,all,all,verified_mismatch,several_reports_same_category,0,104,keys with >= 1 main pair
+key_rollup,all,all,mixed,several_reports_mixed_categories,10,104,keys with >= 1 main pair

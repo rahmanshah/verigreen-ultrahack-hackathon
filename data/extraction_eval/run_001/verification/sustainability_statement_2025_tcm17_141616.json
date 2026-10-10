@@ -1,0 +1,268 @@
+[
+  {
+    "company": "KONE",
+    "scope": "1",
+    "value": 119600,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "119,600"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "Base year 2018",
+    "mapped_year": null,
+    "value_as_printed": "119,600"
+  },
+  {
+    "company": "KONE",
+    "scope": "1",
+    "value": 114000,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "114,000",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "114,000"
+  },
+  {
+    "company": "KONE",
+    "scope": "1",
+    "value": 113800,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "b_number_matches",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_number_matches": "113800 tCO2eq (= 113800 t) not in quote numbers ['1', '113', '113,8006', '2', '8006']",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "113,800"
+  },
+  {
+    "company": "KONE",
+    "scope": "1",
+    "value": 110200,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "110,200",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "110,200"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_location",
+    "value": 36900,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "36,900"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "Base year 2018",
+    "mapped_year": null,
+    "value_as_printed": "36,900"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_location",
+    "value": 32000,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "32,000",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "32,000"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_location",
+    "value": 31500,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "31,500",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "31,500"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_location",
+    "value": 29800,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 1100 t vs location 29800 t, ratio 27.1 > 10"
+    ],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "29,800",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "29,800"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_market",
+    "value": 35100,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "35,100"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "Base year 2018",
+    "mapped_year": null,
+    "value_as_printed": "35,100"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_market",
+    "value": 4900,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "4,900",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "4,900"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_market",
+    "value": 4400,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "4,400",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "4,400"
+  },
+  {
+    "company": "KONE",
+    "scope": "2_market",
+    "value": 1100,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 31,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 1100 t vs location 29800 t, ratio 27.1 > 10"
+    ],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 31",
+      "b_matched_text": "1,100",
+      "c_page_index": "quote on PDF pages none, cited 31"
+    },
+    "record_index": 11,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "1,100"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 137352,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "137,352"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "Baseline value",
+    "mapped_year": null,
+    "value_as_printed": "137,352"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 118556,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "118,556"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "118,556"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 118364,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "118,364"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "118,364"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 129379,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "129,379"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "129,379"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 4,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 5,
+    "year_label_as_printed": "2033",
+    "mapped_year": 2033,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 1009913,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,009,913"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "Baseline value",
+    "mapped_year": null,
+    "value_as_printed": "1,009,913"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 622902,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "622,902"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "622,902"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 626533,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "626,533"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "626,533"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 449273,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "449,273"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "449,273"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 10,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 11,
+    "year_label_as_printed": "2033",
+    "mapped_year": 2033,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 756951,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "756,951"
+    },
+    "record_index": 12,
+    "year_label_as_printed": "Baseline value",
+    "mapped_year": null,
+    "value_as_printed": "756,951"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 548020,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "548,020"
+    },
+    "record_index": 13,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "548,020"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 477937,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "477,937"
+    },
+    "record_index": 14,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "477,937"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 379845,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "379,845"
+    },
+    "record_index": 15,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "379,845"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 16,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 17,
+    "year_label_as_printed": "2033",
+    "mapped_year": 2033,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 129379,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "129,379"
+    },
+    "record_index": 18,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "129,379"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 118364,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "118,364"
+    },
+    "record_index": 19,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "118,364"
+  },
+  {
+    "company": "Kemira",
+    "scope": "1",
+    "value": 136676,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "136,676"
+    },
+    "record_index": 20,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "136,676"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 449273,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 102",
+      "b_matched_text": "449,273",
+      "c_page_index": "quote on PDF pages none, cited 102"
+    },
+    "record_index": 21,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "449,273"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 626533,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 102",
+      "b_matched_text": "626,533",
+      "c_page_index": "quote on PDF pages none, cited 102"
+    },
+    "record_index": 22,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "626,533"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_location",
+    "value": 643300,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 102",
+      "b_matched_text": "643,300",
+      "c_page_index": "quote on PDF pages none, cited 102"
+    },
+    "record_index": 23,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "643,300"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 379845,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 102",
+      "b_matched_text": "379,845",
+      "c_page_index": "quote on PDF pages none, cited 102"
+    },
+    "record_index": 24,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "379,845"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 477937,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 102",
+      "b_matched_text": "477,937",
+      "c_page_index": "quote on PDF pages none, cited 102"
+    },
+    "record_index": 25,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "477,937"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 548020,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 102,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 102",
+      "b_matched_text": "548,020",
+      "c_page_index": "quote on PDF pages none, cited 102"
+    },
+    "record_index": 26,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "548,020"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 477937,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 104,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "477,937"
+    },
+    "record_index": 27,
+    "year_label_as_printed": "Restated value 2024",
+    "mapped_year": null,
+    "value_as_printed": "477,937"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 548020,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 104,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "548,020"
+    },
+    "record_index": 28,
+    "year_label_as_printed": "Restated value 2023",
+    "mapped_year": null,
+    "value_as_printed": "548,020"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 467561,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 104,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "467,561"
+    },
+    "record_index": 29,
+    "year_label_as_printed": "Reported value 2024",
+    "mapped_year": null,
+    "value_as_printed": "467,561"
+  },
+  {
+    "company": "Kemira",
+    "scope": "2_market",
+    "value": 469839,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 104,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "469,839"
+    },
+    "record_index": 30,
+    "year_label_as_printed": "Reported value 2023",
+    "mapped_year": null,
+    "value_as_printed": "469,839"
+  }
+]

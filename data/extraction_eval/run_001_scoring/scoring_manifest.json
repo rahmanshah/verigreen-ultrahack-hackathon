@@ -1,0 +1,37 @@
+{
+  "created_utc": "2026-10-09T07:40:31+00:00",
+  "note": "rules hashed BEFORE any verified data row was read",
+  "sha256": {
+    "scoring_rules.md": "e1e20f7bd37450a27af180fa795dc7713721fe4a26cbebf5632cda7ee4742133",
+    "score_phase_b.py": "c3eb994eb3c4e6f1a44bc5c33d0d23ed2b8de886040f49e2b830fdc2186b4990",
+    "run_001_manifest.json": "dd6f08661e2a2d2953cc09fce18c63c6b8afc8464d3999b1de6bd60ea1d474e5",
+    "verifier.py (frozen, imported)": "0c35a23e934b604c77250973d5d1b8cb9cfc6c0142f8029f4a0a30b1713da759"
+  },
+  "test_file_sha256_at_creation": "32f0e89bd35fe4f6fa78890967747d1569b3324c998375117c1ec6e7b84aba75",
+  "rule_change_log": [
+    {
+      "n": 1,
+      "utc": "2026-10-09T07:50:30+00:00",
+      "tag": "changed before scoring, after seeing structure, before any comparison",
+      "rule": "R1",
+      "change": "annual_report and sustainability_report added to the primary source types (source_type holds the report type in this file)",
+      "approved_by": "Shah"
+    },
+    {
+      "n": 2,
+      "utc": "2026-10-09T07:50:30+00:00",
+      "tag": "changed before scoring, after seeing structure, before any comparison",
+      "rule": "R1",
+      "change": "derived-by-notes: a non-third-party row whose notes contain (case-insensitive) from_notes, derived, calculated or computed is derived_not_extractable; only counts printed; token list never widened",
+      "approved_by": "Shah"
+    }
+  ],
+  "sha256_before_changes": {
+    "scoring_rules.md": "171fe7e2889abbd7c93fc569726541aa9231acfec43102a2294d5387b7185143",
+    "score_phase_b.py": "b82a2f059fd260528a72fa9197d8f3c22ce45b6ec271a01aee64e515e1ae0d13",
+    "run_001_manifest.json": "dd6f08661e2a2d2953cc09fce18c63c6b8afc8464d3999b1de6bd60ea1d474e5",
+    "verifier.py (frozen, imported)": "0c35a23e934b604c77250973d5d1b8cb9cfc6c0142f8029f4a0a30b1713da759"
+  },
+  "test_file_sha256_at_last_update": "4d9a418b31783f7ac3245fbfa64e180fa6b00f14f37b6e8f85c2479c9d660abf",
+  "tests_at_last_update": "15 tests, all passed on made-up data"
+}

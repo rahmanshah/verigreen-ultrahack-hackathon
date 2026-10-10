@@ -1,0 +1,57 @@
+{
+ "status": "completed",
+ "date_utc": "2026-10-08T17:30:33+00:00",
+ "device": "garnet",
+ "circuit": "p0",
+ "qasm_file": "residual_p0.qasm",
+ "qasm_sha256": "ab3f1c4b0fb00d7b9a2d1d73726b4573f478821b1c1b3bb582d624c9b4e507b9",
+ "shots": 100,
+ "transpile": {
+  "cz": 0,
+  "depth": 2,
+  "seed": 0,
+  "physical_qubits": [
+   "QB17",
+   "QB18",
+   "QB19",
+   "QB20"
+  ],
+  "optimization_level": 3
+ },
+ "versions": {
+  "iqm-client": "35.0.3",
+  "qiskit": "2.1.2"
+ },
+ "bit_order": "Qiskit counts keys: rightmost character is classical bit 0 (logical qubit 0 of the residual).",
+ "job_id": "01a11c91-1de9-70ca-ad85-8a92260a0ecc",
+ "seconds_submit_to_result": 5.9,
+ "counts": {
+  "1110": 20,
+  "1101": 7,
+  "1010": 20,
+  "1000": 16,
+  "0100": 2,
+  "1100": 14,
+  "1111": 5,
+  "0010": 2,
+  "1011": 7,
+  "0000": 1,
+  "0110": 4,
+  "0001": 1,
+  "1001": 1
+ },
+ "timeline": [
+  "source='iqm-server' status='created' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 34, 866797, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='received' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 34, 962358, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='validation_started' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 34, 992635, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='validation_ended' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 34, 994007, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='compilation_started' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 23779, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='compilation_ended' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 86394, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='execution_started' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 173640, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='execution_ended' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 272726, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='post_processing_started' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 274422, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='post_processing_ended' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 281666, tzinfo=TzInfo(0))",
+  "source='iqm-station-control' status='ready' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 286714, tzinfo=TzInfo(0))",
+  "source='iqm-server' status='completed' timestamp=datetime.datetime(2026, 10, 8, 17, 30, 35, 596702, tzinfo=TzInfo(0))"
+ ]
+}

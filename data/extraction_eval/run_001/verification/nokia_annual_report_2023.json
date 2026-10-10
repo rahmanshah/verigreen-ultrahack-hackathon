@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": 111100,
+    "unit_as_printed": "tons CO2e",
+    "pdf_page": 96,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "111 100"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "111 100"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 1,
+    "year_label_as_printed": null,
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": 84800,
+    "unit_as_printed": "tons CO2e",
+    "pdf_page": 96,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "84 800"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "84 800"
+  }
+]

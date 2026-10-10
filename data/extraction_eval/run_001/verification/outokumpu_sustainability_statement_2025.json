@@ -1,0 +1,222 @@
+[
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 1213634,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,213,634"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2016",
+    "mapped_year": 2016,
+    "value_as_printed": "1,213,634"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 990643,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "990,643"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "990,643"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 1027622,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,027,622"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "1,027,622"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "1",
+    "value": 689400,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "689,400"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2030³)",
+    "mapped_year": null,
+    "value_as_printed": "689,400"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "fail",
+    "failed": [
+      "value_parse"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "value_parse": "value_as_printed 'n/a' could not be parsed (not_a_number)"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2016",
+    "mapped_year": 2016,
+    "value": null,
+    "value_as_printed": "n/a"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "value": 448567,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "448,567"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "448,567"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "value": 435773,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "435,773"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "435,773"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_location",
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "fail",
+    "failed": [
+      "value_parse"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "value_parse": "value_as_printed 'n/a' could not be parsed (not_a_number)"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2030³)",
+    "mapped_year": null,
+    "value": null,
+    "value_as_printed": "n/a"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 1210872,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,210,872"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2016",
+    "mapped_year": 2016,
+    "value_as_printed": "1,210,872"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 364704,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "364,704"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "364,704"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 373505,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "373,505"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "373,505"
+  },
+  {
+    "company": "Outokumpu",
+    "scope": "2_market",
+    "value": 28200,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 48,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "28,200"
+    },
+    "record_index": 11,
+    "year_label_as_printed": "2030³)",
+    "mapped_year": null,
+    "value_as_printed": "28,200"
+  }
+]

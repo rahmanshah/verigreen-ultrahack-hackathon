@@ -1,0 +1,161 @@
+{
+  "file": "Elisa_Annual_Report_2023.pdf",
+  "company": "Elisa",
+  "report_fiscal_year": 2023,
+  "pdf_type": "annual report (full)",
+  "finder_pages": [
+    150,
+    193,
+    196
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "4,084",
+      "unit_as_printed": "[tCO2e]",
+      "pdf_page": 193,
+      "quote": "Total direct greenhouse gas (GHG) emissions by weight \n[tCO2e, tonnes of carbon dioxide equivalents] \n4,084 \n5,426 \n5,927",
+      "note": "Emission compensation since 2020. Historical data has been retroactively corrected after revisiting data points. From 2021 onwards, the data includes Elisa camLine figure.",
+      "null_reason": null,
+      "value_numeric": 4084,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "5,426",
+      "unit_as_printed": "[tCO2e]",
+      "pdf_page": 193,
+      "quote": "Total direct greenhouse gas (GHG) emissions by weight \n[tCO2e, tonnes of carbon dioxide equivalents] \n4,084 \n5,426 \n5,927",
+      "note": "Emission compensation since 2020. Historical data has been retroactively corrected after revisiting data points. From 2021 onwards, the data includes Elisa camLine figure.",
+      "null_reason": null,
+      "value_numeric": 5426,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "5,927",
+      "unit_as_printed": "[tCO2e]",
+      "pdf_page": 193,
+      "quote": "Total direct greenhouse gas (GHG) emissions by weight \n[tCO2e, tonnes of carbon dioxide equivalents] \n4,084 \n5,426 \n5,927",
+      "note": "Emission compensation since 2020. Historical data has been retroactively corrected after revisiting data points. From 2021 onwards, the data includes Elisa camLine figure.",
+      "null_reason": null,
+      "value_numeric": 5927,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 3,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "1,595",
+      "unit_as_printed": "[tCO2e]",
+      "pdf_page": 193,
+      "quote": "Total indirect greenhouse gas (GHG) emissions by weight [tCO2e, \ntonnes of carbon dioxide equivalents], market-based \n1,595\n2,187\n2,328",
+      "note": "Market-based. 100% renewable electricity used in Elisa's international offices. Additionally, 100% renewable district cooling used in Elisa Finland. In Elisa Estonia and Elisa Finland, carbon-free (nuclear) electricty is used in 2023. Emission compensation since 2020. Historical data has been retroactively corrected after revisiting data points.",
+      "null_reason": null,
+      "value_numeric": 1595,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 4,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "2,187",
+      "unit_as_printed": "[tCO2e]",
+      "pdf_page": 193,
+      "quote": "Total indirect greenhouse gas (GHG) emissions by weight [tCO2e, \ntonnes of carbon dioxide equivalents], market-based \n1,595\n2,187\n2,328",
+      "note": "Market-based. 100% renewable electricity used in Elisa's international offices. Additionally, 100% renewable district cooling used in Elisa Finland. In Elisa Estonia and Elisa Finland, carbon-free (nuclear) electricty is used in 2023. Emission compensation since 2020. Historical data has been retroactively corrected after revisiting data points.",
+      "null_reason": null,
+      "value_numeric": 2187,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 5,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "2,328",
+      "unit_as_printed": "[tCO2e]",
+      "pdf_page": 193,
+      "quote": "Total indirect greenhouse gas (GHG) emissions by weight [tCO2e, \ntonnes of carbon dioxide equivalents], market-based \n1,595\n2,187\n2,328",
+      "note": "Market-based. 100% renewable electricity used in Elisa's international offices. Additionally, 100% renewable district cooling used in Elisa Finland. In Elisa Estonia and Elisa Finland, carbon-free (nuclear) electricty is used in 2023. Emission compensation since 2020. Historical data has been retroactively corrected after revisiting data points.",
+      "null_reason": null,
+      "value_numeric": 2328,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 6,
+      "company": "Elisa",
+      "report_file": "Elisa_Annual_Report_2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": null,
+      "mapped_year": null,
+      "value_as_printed": null,
+      "unit_as_printed": null,
+      "pdf_page": null,
+      "quote": null,
+      "note": null,
+      "null_reason": "No location-based Scope 2 figure is stated on the supplied pages.",
+      "value_numeric": null,
+      "value_parse_rule": "none",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    }
+  ]
+}

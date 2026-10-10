@@ -1,0 +1,328 @@
+[
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": 42939,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 122,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 122",
+      "b_matched_text": "42 939",
+      "c_page_index": "quote on PDF pages none, cited 122"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "42 939"
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": 38447,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 122,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 122",
+      "b_matched_text": "38 447",
+      "c_page_index": "quote on PDF pages none, cited 122"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "38 447"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_location",
+    "value": 320200,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 122,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 13825 t vs location 320200 t, ratio 23.2 > 10"
+    ],
+    "details": {
+      "b_matched_text": "320 200"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "320 200"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_location",
+    "value": 313865,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 122,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "313 865"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "313 865"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": 13825,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 122,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 13825 t vs location 320200 t, ratio 23.2 > 10"
+    ],
+    "details": {
+      "b_matched_text": "13 825"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "13 825"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": 52051,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 122,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "52 051"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "52 051"
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": 42939,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 123,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "42 939"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "42 939"
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": 38447,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 123,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "38 447"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "38 447"
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": 50711,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 123,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "50 711"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2019 (base year)(1)",
+    "mapped_year": null,
+    "value_as_printed": "50 711"
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 9,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": null
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 10,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "Nokia",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 11,
+    "year_label_as_printed": "2040",
+    "mapped_year": 2040,
+    "value_as_printed": null
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": 13825,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 123,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "13 825"
+    },
+    "record_index": 12,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "13 825"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": 52051,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 123,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "52 051"
+    },
+    "record_index": 13,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "52 051"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": 351030,
+    "unit_as_printed": "tCO2eq",
+    "pdf_page": 123,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "351 030"
+    },
+    "record_index": 14,
+    "year_label_as_printed": "2019 (base year)",
+    "mapped_year": null,
+    "value_as_printed": "351 030"
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 15,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": null
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 16,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "Nokia",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 17,
+    "year_label_as_printed": "2040",
+    "mapped_year": 2040,
+    "value_as_printed": null
+  }
+]

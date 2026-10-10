@@ -1,0 +1,3 @@
+company_id,provider,rating_raw,rating_scale,rating_date,source_url,retrieved_date,notes
+EXAMPLE,MSCI,AA,msci_letter,2026-05-14,https://example.com/msci-lookup,2026-09-26,Delete this row
+EXAMPLE,Sustainalytics,18.4,sustainalytics_risk,2026-07-02,https://example.com/sustainalytics-lookup,2026-09-26,Delete this row

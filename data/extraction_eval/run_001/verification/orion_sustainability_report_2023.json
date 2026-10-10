@@ -1,0 +1,164 @@
+[
+  {
+    "company": "Orion",
+    "scope": "1",
+    "value": 4403,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "4,403"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "4,403"
+  },
+  {
+    "company": "Orion",
+    "scope": "1",
+    "value": 5110,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "5,110"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "5,110"
+  },
+  {
+    "company": "Orion",
+    "scope": "1",
+    "value": 5511,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "5,511"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "5,511"
+  },
+  {
+    "company": "Orion",
+    "scope": "2_market",
+    "value": 10155,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "10,155"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "10,155"
+  },
+  {
+    "company": "Orion",
+    "scope": "2_market",
+    "value": 11544,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "11,544"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "11,544"
+  },
+  {
+    "company": "Orion",
+    "scope": "2_market",
+    "value": 8429,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "8,429"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "8,429"
+  },
+  {
+    "company": "Orion",
+    "scope": "2_location",
+    "value": 20038,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "20,038"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2021",
+    "mapped_year": 2021,
+    "value_as_printed": "20,038"
+  },
+  {
+    "company": "Orion",
+    "scope": "2_location",
+    "value": 18936,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "18,936"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "18,936"
+  },
+  {
+    "company": "Orion",
+    "scope": "2_location",
+    "value": 11726,
+    "unit_as_printed": "tonnes",
+    "pdf_page": 87,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "11,726"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "11,726"
+  }
+]

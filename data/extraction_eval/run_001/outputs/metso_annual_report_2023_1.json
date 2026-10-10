@@ -1,0 +1,330 @@
+{
+  "file": "metso-annual-report-2023-1.pdf",
+  "company": "Metso",
+  "report_fiscal_year": 2023,
+  "pdf_type": "GRI supplement",
+  "finder_pages": [
+    9,
+    10
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "28,653",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 1 emissions\n28,653\n39,267*",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 28653,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "39,267",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 1 emissions\n28,653\n39,267*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 39267,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "38,770",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 1 emissions\n38,770*\n33,004*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 38770,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 3,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2020",
+      "mapped_year": 2020,
+      "value_as_printed": "33,004",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 1 emissions\n38,770*\n33,004*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 33004,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 4,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": "2019",
+      "mapped_year": 2019,
+      "value_as_printed": "37,870",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 1 emissions\n37,870*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 37870,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 5,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "3,528",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (market based)\n3,528\n5,328*",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 3528,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 6,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "5,328",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (market based)\n3,528\n5,328*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 5328,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 7,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "9,186",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (market based)\n9,186\n7,995",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 9186,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 8,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2020",
+      "mapped_year": 2020,
+      "value_as_printed": "7,995",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (market based)\n9,186\n7,995",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 7995,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 9,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": "2019",
+      "mapped_year": 2019,
+      "value_as_printed": "83,338",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (market based)\n83,338",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 83338,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 10,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2023",
+      "mapped_year": 2023,
+      "value_as_printed": "76,349",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (location based)\n76,349\n90,715*",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 76349,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 11,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2022",
+      "mapped_year": 2022,
+      "value_as_printed": "90,715",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (location based)\n76,349\n90,715*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 90715,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 12,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2021",
+      "mapped_year": 2021,
+      "value_as_printed": "92,588",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (location based)\n92,588*\n70,465*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 92588,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 13,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2020",
+      "mapped_year": 2020,
+      "value_as_printed": "70,465",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (location based)\n92,588*\n70,465*",
+      "note": "Figure restated as a result of data validation. Asterisk omitted from value_as_printed.",
+      "null_reason": null,
+      "value_numeric": 70465,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 14,
+      "company": "Metso",
+      "report_file": "metso-annual-report-2023-1.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": "2019",
+      "mapped_year": 2019,
+      "value_as_printed": "78,483",
+      "unit_as_printed": "tCO2",
+      "pdf_page": 9,
+      "quote": "Scope 2 emissions (location based)\n78,483",
+      "note": null,
+      "null_reason": null,
+      "value_numeric": 78483,
+      "value_parse_rule": "thousands=','",
+      "harness_flags": [
+        "assumed_thousands_separator"
+      ],
+      "year_mapping_unverified": true
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+[
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 47385,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "47,385"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "47,385"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 47681,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "47,681"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "47,681"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 38413,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "38,413"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "38,413"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 40475,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "40,475"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "40,475"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 41721,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "41,721"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "41,721"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 34850,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "34,850"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "34,850"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 1818,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,818"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1,818"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 1483,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,483"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "1,483"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 2419,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2,419"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "2,419"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 3020,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "3,020"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "3,020"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 2371,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2,371"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "2,371"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 11,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 1006,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,006"
+    },
+    "record_index": 12,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1,006"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 1216,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,216"
+    },
+    "record_index": 13,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "1,216"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 292,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "292"
+    },
+    "record_index": 14,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "292"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 1066,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,066"
+    },
+    "record_index": 15,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1,066"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 891,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "891"
+    },
+    "record_index": 16,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "891"
+  },
+  {
+    "company": "Kesko",
+    "scope": "1",
+    "value": 852,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "852"
+    },
+    "record_index": 17,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "852"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 18,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 19,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 20,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 21,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 22,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 23,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 0,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 0 t vs location 127616 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "0"
+    },
+    "record_index": 24,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "0"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 0,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 0 t vs location 50646 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "0"
+    },
+    "record_index": 25,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "0"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 0,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 0 t vs location 77884 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "0"
+    },
+    "record_index": 26,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "0"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 127616,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 0 t vs location 127616 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "127,616"
+    },
+    "record_index": 27,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "127,616"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 50646,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 0 t vs location 50646 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "50,646"
+    },
+    "record_index": 28,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "50,646"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 77884,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 0 t vs location 77884 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "77,884"
+    },
+    "record_index": 29,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "77,884"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 27756,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "27,756"
+    },
+    "record_index": 30,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "27,756"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 24372,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "24,372"
+    },
+    "record_index": 31,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "24,372"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 32,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 34459,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "34,459"
+    },
+    "record_index": 33,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "34,459"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 35601,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "35,601"
+    },
+    "record_index": 34,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "35,601"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 28002,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "28,002"
+    },
+    "record_index": 35,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "28,002"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 0,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 2328 t vs location 0 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "0"
+    },
+    "record_index": 36,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "0"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 0,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 2948 t vs location 0 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "0"
+    },
+    "record_index": 37,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "0"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 38,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 2328,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 2328 t vs location 0 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "2,328"
+    },
+    "record_index": 39,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "2,328"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": 2948,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 2948 t vs location 0 t, ratio inf > 10"
+    ],
+    "details": {
+      "b_matched_text": "2,948"
+    },
+    "record_index": 40,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "2,948"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 41,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": null
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 13570,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "13,570"
+    },
+    "record_index": 42,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "13,570"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 12044,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "12,044"
+    },
+    "record_index": 43,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "12,044"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 3232,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "3,232"
+    },
+    "record_index": 44,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "3,232"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 478,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "478"
+    },
+    "record_index": 45,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "478"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 505,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "505"
+    },
+    "record_index": 46,
+    "year_label_as_printed": "2022",
+    "mapped_year": 2022,
+    "value_as_printed": "505"
+  },
+  {
+    "company": "Kesko",
+    "scope": "2_location",
+    "value": 706,
+    "unit_as_printed": "tonnes CO2e",
+    "pdf_page": 57,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "706"
+    },
+    "record_index": 47,
+    "year_label_as_printed": "Baseline 2020",
+    "mapped_year": null,
+    "value_as_printed": "706"
+  }
+]

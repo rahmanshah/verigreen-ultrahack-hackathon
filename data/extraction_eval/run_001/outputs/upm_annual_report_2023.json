@@ -1,0 +1,73 @@
+{
+  "file": "upm-annual-report-2023.pdf",
+  "company": "UPM",
+  "report_fiscal_year": 2023,
+  "pdf_type": "annual report (full)",
+  "finder_pages": [
+    46,
+    51,
+    72
+  ],
+  "model": "gpt-6-luna",
+  "status": "completed",
+  "model_returned": "gpt-6-luna",
+  "records": [
+    {
+      "record_index": 0,
+      "company": "UPM",
+      "report_file": "upm-annual-report-2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "1",
+      "year_label_as_printed": null,
+      "mapped_year": null,
+      "value_as_printed": "2.1",
+      "unit_as_printed": "m t",
+      "pdf_page": 51,
+      "quote": "Fossil CO2 emissions (Scope 1)\n2.1m t",
+      "note": "No year column or period label is shown for this figure.",
+      "null_reason": null,
+      "value_numeric": 2.1,
+      "value_parse_rule": "decimal='.'",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 1,
+      "company": "UPM",
+      "report_file": "upm-annual-report-2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_location",
+      "year_label_as_printed": null,
+      "mapped_year": null,
+      "value_as_printed": null,
+      "unit_as_printed": null,
+      "pdf_page": null,
+      "quote": null,
+      "note": null,
+      "null_reason": "Scope 2 figure is stated, but it is not identified as location-based or market-based.",
+      "value_numeric": null,
+      "value_parse_rule": "none",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    },
+    {
+      "record_index": 2,
+      "company": "UPM",
+      "report_file": "upm-annual-report-2023.pdf",
+      "report_fiscal_year": 2023,
+      "scope": "2_market",
+      "year_label_as_printed": null,
+      "mapped_year": null,
+      "value_as_printed": null,
+      "unit_as_printed": null,
+      "pdf_page": null,
+      "quote": null,
+      "note": null,
+      "null_reason": "Scope 2 figure is stated, but it is not identified as location-based or market-based.",
+      "value_numeric": null,
+      "value_parse_rule": "none",
+      "harness_flags": [],
+      "year_mapping_unverified": true
+    }
+  ]
+}

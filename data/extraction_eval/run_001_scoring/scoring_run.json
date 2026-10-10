@@ -1,0 +1,11 @@
+{
+  "ran_utc": "2026-10-09T07:50:37+00:00",
+  "hashes": {
+    "scoring_rules.md": "e1e20f7bd37450a27af180fa795dc7713721fe4a26cbebf5632cda7ee4742133",
+    "score_phase_b.py": "c3eb994eb3c4e6f1a44bc5c33d0d23ed2b8de886040f49e2b830fdc2186b4990",
+    "run_001_manifest.json": "dd6f08661e2a2d2953cc09fce18c63c6b8afc8464d3999b1de6bd60ea1d474e5",
+    "verifier.py (frozen, imported)": "0c35a23e934b604c77250973d5d1b8cb9cfc6c0142f8029f4a0a30b1713da759"
+  },
+  "verified_rows": 59,
+  "pairs": 137
+}

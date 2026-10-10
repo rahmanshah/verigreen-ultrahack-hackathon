@@ -1,0 +1,172 @@
+[
+  {
+    "company": "Metso",
+    "scope": "1",
+    "value": 37670,
+    "unit_as_printed": "tCO2e",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "37,670"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "37,670"
+  },
+  {
+    "company": "Metso",
+    "scope": "1",
+    "value": 36912,
+    "unit_as_printed": "tCO2e",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "36,912"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "36,912"
+  },
+  {
+    "company": "Metso",
+    "scope": "1",
+    "value": 37870,
+    "unit_as_printed": "tCO2e",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "37,870"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2019",
+    "mapped_year": 2019,
+    "value_as_printed": "37,870"
+  },
+  {
+    "company": "Metso",
+    "scope": "2_location",
+    "value": 75652,
+    "unit_as_printed": "(tCO2e)",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 3308 t vs location 75652 t, ratio 22.9 > 10"
+    ],
+    "details": {
+      "b_matched_text": "75,652"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "75,652"
+  },
+  {
+    "company": "Metso",
+    "scope": "2_location",
+    "value": 76956,
+    "unit_as_printed": "(tCO2e)",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 3229 t vs location 76956 t, ratio 23.8 > 10"
+    ],
+    "details": {
+      "b_matched_text": "76,956"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "76,956"
+  },
+  {
+    "company": "Metso",
+    "scope": "2_location",
+    "value": 78483,
+    "unit_as_printed": "(tCO2e)",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "78,483"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2019",
+    "mapped_year": 2019,
+    "value_as_printed": "78,483"
+  },
+  {
+    "company": "Metso",
+    "scope": "2_market",
+    "value": 3308,
+    "unit_as_printed": "(tCO2e)",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 3308 t vs location 75652 t, ratio 22.9 > 10"
+    ],
+    "details": {
+      "b_matched_text": "3,308"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "3,308"
+  },
+  {
+    "company": "Metso",
+    "scope": "2_market",
+    "value": 3229,
+    "unit_as_printed": "(tCO2e)",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [
+      "d_sanity: market 3229 t vs location 76956 t, ratio 23.8 > 10"
+    ],
+    "details": {
+      "b_matched_text": "3,229"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "3,229"
+  },
+  {
+    "company": "Metso",
+    "scope": "2_market",
+    "value": 83338,
+    "unit_as_printed": "(tCO2e)",
+    "pdf_page": 39,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "83,338"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2019",
+    "mapped_year": 2019,
+    "value_as_printed": "83,338"
+  }
+]

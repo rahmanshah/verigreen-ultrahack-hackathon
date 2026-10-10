@@ -1,0 +1,56 @@
+# Company report PDFs: copyrighted; the CSV records URL + page for each value
+data/raw_pdfs/
+*.pdf
+
+# LLM extraction spike: raw API responses quote the PDFs verbatim - keep local only
+data/extraction/raw_responses/
+data/extraction_eval/run_001/raw_responses/
+
+# ESG provider ratings (MSCI/Sustainalytics terms of use) - keep local only
+data/bronze/ratings_raw.csv
+
+# Price data (Yahoo Finance terms) and cached raw API responses - regenerate locally
+data/bronze/prices_raw.parquet
+data/bronze/prices_cleaned.parquet
+data/bronze/yfinance_cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets (IBM Quantum / IQM tokens etc.)
+.env
+.env.*
+!.env.example
+*.token
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# --- public snapshot additions ---
+CLAUDE.md
+.claude/
+docs/project_context.md
+docs/mentor_feedback.md
+docs/customer_survey.md
+docs/qa_cheatsheet.md
+docs/status_snapshot.md
+data/bronze/financials_yfinance_firstpass.csv
+data/extraction_eval/smoke/
+data/extraction/
+.streamlit/secrets.toml
+*.log
+.mypy_cache/
+.ruff_cache/
+.venv*/
+venvs/
+*.pem
+*.key
+Thumbs.db
+desktop.ini

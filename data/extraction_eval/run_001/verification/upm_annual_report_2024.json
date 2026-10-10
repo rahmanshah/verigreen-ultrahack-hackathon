@@ -1,0 +1,338 @@
+[
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 3880000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "3,880,000"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "2015",
+    "mapped_year": 2015,
+    "value_as_printed": "3,880,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 3250000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "3,250,000"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2018",
+    "mapped_year": 2018,
+    "value_as_printed": "3,250,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 2130000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2,130,000"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "2,130,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 2180000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2,180,000"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "2,180,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 2200000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 80",
+      "b_matched_text": "2,200,000",
+      "c_page_index": "quote on PDF pages none, cited 80"
+    },
+    "record_index": 4,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "2,200,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "1",
+    "value": 1360000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 80",
+      "b_matched_text": "1,360,000",
+      "c_page_index": "quote on PDF pages none, cited 80"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": "1,360,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 6,
+    "year_label_as_printed": "2015",
+    "mapped_year": 2015,
+    "value_as_printed": null
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 7,
+    "year_label_as_printed": "2018",
+    "mapped_year": 2018,
+    "value_as_printed": null
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": 3020000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "3,020,000"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "3,020,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": 1730000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,730,000"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "1,730,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 10,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": null
+  },
+  {
+    "company": "UPM",
+    "scope": "2_location",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 11,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": 2920000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "2,920,000"
+    },
+    "record_index": 12,
+    "year_label_as_printed": "2015",
+    "mapped_year": 2015,
+    "value_as_printed": "2,920,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": 3100000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "3,100,000"
+    },
+    "record_index": 13,
+    "year_label_as_printed": "2018",
+    "mapped_year": 2018,
+    "value_as_printed": "3,100,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": 1590000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,590,000"
+    },
+    "record_index": 14,
+    "year_label_as_printed": "2023",
+    "mapped_year": 2023,
+    "value_as_printed": "1,590,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": 1200000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,200,000"
+    },
+    "record_index": 15,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "1,200,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": 1650000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 80",
+      "b_matched_text": "1,650,000",
+      "c_page_index": "quote on PDF pages none, cited 80"
+    },
+    "record_index": 16,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "1,650,000"
+  },
+  {
+    "company": "UPM",
+    "scope": "2_market",
+    "value": 1020000,
+    "unit_as_printed": "tCO2",
+    "pdf_page": 80,
+    "status": "fail",
+    "failed": [
+      "a_quote_on_page",
+      "c_page_index"
+    ],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "a_quote_on_page": "quote not found on cited PDF page 80",
+      "b_matched_text": "1,020,000",
+      "c_page_index": "quote on PDF pages none, cited 80"
+    },
+    "record_index": 17,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": "1,020,000"
+  }
+]

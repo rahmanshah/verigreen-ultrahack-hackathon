@@ -1,0 +1,264 @@
+[
+  {
+    "company": "Fortum",
+    "scope": "1",
+    "value": 1635700,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,635,700"
+    },
+    "record_index": 0,
+    "year_label_as_printed": "Base year, 2023 1)",
+    "mapped_year": null,
+    "value_as_printed": "1,635,700"
+  },
+  {
+    "company": "Fortum",
+    "scope": "1",
+    "value": 1351000,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "1,351,000"
+    },
+    "record_index": 1,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "1,351,000"
+  },
+  {
+    "company": "Fortum",
+    "scope": "1",
+    "value": 757800,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "757,800"
+    },
+    "record_index": 2,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "757,800"
+  },
+  {
+    "company": "Fortum",
+    "scope": "1",
+    "value": 260000,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "260,000"
+    },
+    "record_index": 3,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": "260,000"
+  },
+  {
+    "company": "Fortum",
+    "scope": "1",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 4,
+    "year_label_as_printed": "2033",
+    "mapped_year": 2033,
+    "value_as_printed": null
+  },
+  {
+    "company": "Fortum",
+    "scope": "1",
+    "value": 180000,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "180,000"
+    },
+    "record_index": 5,
+    "year_label_as_printed": "2040",
+    "mapped_year": 2040,
+    "value_as_printed": "180,000"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_location",
+    "value": 57400,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "57,400"
+    },
+    "record_index": 6,
+    "year_label_as_printed": "Base year, 2023 1)",
+    "mapped_year": null,
+    "value_as_printed": "57,400"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_location",
+    "value": 46700,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "46,700"
+    },
+    "record_index": 7,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "46,700"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_location",
+    "value": 179400,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "179,400"
+    },
+    "record_index": 8,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "179,400"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_market",
+    "value": 44800,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "44,800"
+    },
+    "record_index": 9,
+    "year_label_as_printed": "Base year, 2023 1)",
+    "mapped_year": null,
+    "value_as_printed": "44,800"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_market",
+    "value": 24500,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "24,500"
+    },
+    "record_index": 10,
+    "year_label_as_printed": "2024",
+    "mapped_year": 2024,
+    "value_as_printed": "24,500"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_market",
+    "value": 130600,
+    "unit_as_printed": "tCO2-eq or as indicated",
+    "pdf_page": 62,
+    "status": "pass",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {
+      "b_matched_text": "130,600"
+    },
+    "record_index": 11,
+    "year_label_as_printed": "2025",
+    "mapped_year": 2025,
+    "value_as_printed": "130,600"
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 12,
+    "year_label_as_printed": "2030",
+    "mapped_year": 2030,
+    "value_as_printed": null
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 13,
+    "year_label_as_printed": "2033",
+    "mapped_year": 2033,
+    "value_as_printed": null
+  },
+  {
+    "company": "Fortum",
+    "scope": "2_market",
+    "value": null,
+    "unit_as_printed": null,
+    "pdf_page": null,
+    "status": "not_stated",
+    "failed": [],
+    "ambiguous": [],
+    "flags": [],
+    "details": {},
+    "record_index": 14,
+    "year_label_as_printed": "2040",
+    "mapped_year": 2040,
+    "value_as_printed": null
+  }
+]

@@ -1,0 +1,33 @@
+You extract greenhouse-gas (GHG) emissions figures from pages of a company report. The pages are supplied after the task, each preceded by a marker line "=== PDF page index N ===".
+
+Scopes (use these exact codes):
+- "1": gross Scope 1 emissions
+- "2_location": Scope 2 emissions, location-based
+- "2_market": Scope 2 emissions, market-based
+
+What to return
+- For each scope, return one record for every year column shown in the emissions table, not only the most recent year. A column is any column or labelled period that holds emissions values, including columns labelled base year, baseline, target, restated or pro forma. Do not return columns that hold percentage changes or ratios.
+- If a scope appears in more than one table on the supplied pages, return the records from each table. Do not merge tables and do not choose between them.
+- If a scope has no stated figure anywhere on the supplied pages, return exactly one record for that scope with every field null except scope and null_reason.
+- If a column exists for a scope but its cell is empty, "n/a" or a dash, return a record for that column with value_as_printed, unit_as_printed, pdf_page and quote set to null, and give a null_reason.
+- Do not return Scope 3 figures or combined Scope 1+2 totals.
+
+Rules
+- Copy only. Never infer, estimate, sum, convert, round or calculate a value. Never fill a gap from another column, another page or your own knowledge.
+- If a Scope 2 figure does not state whether it is location-based or market-based, do not assign it to either: return null with that reason.
+
+Fields of each record
+- scope: one of the three codes above.
+- year_label_as_printed: the column or row header text for that value, copied exactly as printed, character for character, including any footnote marker. If the header text is spread over several lines of the page text, join the lines with one space. Null only when there is no column at all.
+- mapped_year: the calendar year as an integer, but only when year_label_as_printed consists of nothing except a four-digit year (for example "2031"). If the label says base year, baseline, target, restated, pro forma, contains a footnote marker, or is anything other than a plain four-digit year, set mapped_year to null and state the reason in note. Never guess a year.
+- value_as_printed: the number as a string exactly as printed, with the same thousands separators, decimal separator and decimal places. Leave out the unit and any footnote marker (mention a removed marker in note). Do not convert or reformat.
+- unit_as_printed: the unit exactly as printed for that figure, taken from the table header or row label.
+- pdf_page: the number in the "=== PDF page index N ===" marker of the page the figure is on. Not the page number printed in the report.
+- quote: a short span copied verbatim, character for character, from that page, containing the figure: the row label and the cells as they appear in the supplied text. Do not fix spacing, spelling or line order.
+- note: boundary or method information stated next to the figure (for example restated, excludes some operations, a separate biogenic figure), plus the reason when mapped_year is null. Null if there is nothing to say.
+- null_reason: required when value_as_printed is null, otherwise null. A short reason stating what is missing.
+
+Illustration with made-up text (not from any report). Page text:
+  "Gross Scope 1 (tCO2e)  |  Base year 1999  |  2030  |  2031"
+  "100  |  90  |  80"
+gives three records for scope "1": label "Base year 1999" with mapped_year null and note "label says base year"; label "2030" with mapped_year 2030, value_as_printed "90"; label "2031" with mapped_year 2031, value_as_printed "80". Real tables may list columns in any order, so read the header order from the page text for each table.
